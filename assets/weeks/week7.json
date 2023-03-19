@@ -1,0 +1,50 @@
+{
+	"storyName": "the stev",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"no-diamonds-and-bonk",
+			"stev-icon",
+			[
+				0,
+				255,
+				253
+			]
+		],
+		[
+			"spammo-baseball",
+			"stev-icon",
+			[
+				0,
+				255,
+				253
+			]
+		],
+		[
+			"vibing-revenge",
+			"mad-stev-icon",
+			[
+				80,
+				80,
+				80
+			]
+		]
+	],
+	"weekCharacters": [
+		"menu-scout",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

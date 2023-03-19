@@ -1,0 +1,50 @@
+{
+	"storyName": "Jerry Week",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "basement",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"bonk-for-murders",
+			"icon-mouse-p1",
+			[
+				140,
+				93,
+				33
+			]
+		],
+		[
+			"jerry-time",
+			"icon-mouse-p2",
+			[
+				110,
+				73,
+				20
+			]
+		],
+		[
+			"haunted-house",
+			"icon-mouse-p2",
+			[
+				90,
+				53,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

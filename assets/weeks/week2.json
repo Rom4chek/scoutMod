@@ -1,0 +1,77 @@
+{
+	"storyName": "the misc songs",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"the-scout",
+			"bad-scout-icon",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"faker",
+			"red-scout-icon",
+			[
+				255,
+				113,
+				120
+			]
+		],
+		[
+			"bonk-bside",
+			"bsidescout-icon",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"bonk-bside-remake",
+			"bsidescout-icon",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"the-scout-2",
+			"bad-scout-icon",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"bonk-old",
+			"scout-icon-old",
+			[
+				0,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"menu-scout",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "week2"
+}

@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "idlelol",
+	"position": [
+		185,
+		196
+	],
+	"scale": 0.5,
+	"image": "menu-scout",
+	"flipX": false
+}

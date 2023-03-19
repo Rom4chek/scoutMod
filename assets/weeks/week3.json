@@ -1,0 +1,50 @@
+{
+	"storyName": "the scout.png revenge",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"menu-scout",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"scout-rage",
+			"icon-scoutAngry",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"angry-revenge",
+			"icon-scoutAngry",
+			[
+				0,
+				93,
+				233
+			]
+		],
+		[
+			"shotgun-time",
+			"icon-scoutAngry",
+			[
+				0,
+				73,
+				213
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

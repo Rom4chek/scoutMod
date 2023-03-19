@@ -1,0 +1,68 @@
+{
+	"storyName": "the misc songs 2",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"menu-scout",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"ultra-baseball",
+			"ntmr-scout-icon-v2",
+			[
+				0,
+				73,
+				213
+			]
+		],
+		[
+			"corrupted-bonk",
+			"corrupted-scout-icon",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"scot-rel",
+			"scot-real-icon",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"scout-seksy",
+			"scoute-icon",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"ultra-baseball-old",
+			"nightmare-scout-icon",
+			[
+				0,
+				80,
+				213
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

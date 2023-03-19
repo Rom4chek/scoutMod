@@ -1,0 +1,86 @@
+{
+	"storyName": "the misc songs 3",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+               	[
+			"shotgun-time-old",
+			"scout-icon-old",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"you-cant-bonk-old",
+			"scout-exe-icon",
+			[
+				140,
+				0,
+				0
+			]
+		],
+		[
+			"eat-a-salad-b-side",
+			"bsidescout-icon",
+			[
+				215,
+				33,
+				255
+			]
+		],
+		[
+			"knucklehead-bside",
+			"bsidescout-icon",
+			[
+				206,
+				113,
+				253
+			]
+		],
+		[
+			"the-real-scout",
+			"real-scout-icon",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"the-scary-revenge",
+			"crazy-scout-icon",
+			[
+				166,
+				0,
+				35
+			]
+		],
+		[
+			"basebot-time",
+			"nextbotscout-icon",
+			[
+				255,
+				195,
+				160
+			]
+		]
+	],
+	"weekCharacters": [
+		"menu-scout",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

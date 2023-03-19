@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tf2DanceTitle.png">
+<SubTexture name="tf2DanceTitle tfDance0000" x="0" y="0" width="709" height="768" frameX="-2" frameY="-13" frameWidth="750" frameHeight="786" />
+<SubTexture name="tf2DanceTitle tfDance0001" x="709" y="0" width="709" height="732" frameX="-2" frameY="-50" frameWidth="750" frameHeight="786" />
+<SubTexture name="tf2DanceTitle tfDance0002" x="1418" y="0" width="709" height="683" frameX="-2" frameY="-100" frameWidth="750" frameHeight="786" />
+<SubTexture name="tf2DanceTitle tfDance0003" x="0" y="768" width="709" height="627" frameX="-2" frameY="-157" frameWidth="750" frameHeight="786" />
+<SubTexture name="tf2DanceTitle tfDance0004" x="709" y="768" width="709" height="551" frameX="-2" frameY="-233" frameWidth="750" frameHeight="786" />
+<SubTexture name="tf2DanceTitle tfDance0005" x="1418" y="768" width="709" height="490" frameX="-2" frameY="-295" frameWidth="750" frameHeight="786" />
+<SubTexture name="tf2DanceTitle tfDance0006" x="0" y="1395" width="709" height="426" frameX="-2" frameY="-359" frameWidth="750" frameHeight="786" />
+<SubTexture name="tf2DanceTitle tfDance0007" x="709" y="1395" width="709" height="367" frameX="-2" frameY="-418" frameWidth="750" frameHeight="786" />
+<SubTexture name="tf2DanceTitle tfDance0008" x="1418" y="1395" width="709" height="306" frameX="-2" frameY="-480" frameWidth="750" frameHeight="786" />
+<SubTexture name="tf2DanceTitle tfDance0009" x="709" y="1395" width="709" height="367" frameX="-2" frameY="-418" frameWidth="750" frameHeight="786" />
+<SubTexture name="tf2DanceTitle tfDance0010" x="0" y="1395" width="709" height="426" frameX="-2" frameY="-359" frameWidth="750" frameHeight="786" />
+<SubTexture name="tf2DanceTitle tfDance0011" x="1418" y="768" width="709" height="490" frameX="-2" frameY="-295" frameWidth="750" frameHeight="786" />
+<SubTexture name="tf2DanceTitle tfDance0012" x="709" y="768" width="709" height="551" frameX="-2" frameY="-233" frameWidth="750" frameHeight="786" />
+<SubTexture name="tf2DanceTitle tfDance0013" x="0" y="768" width="709" height="627" frameX="-2" frameY="-157" frameWidth="750" frameHeight="786" />
+<SubTexture name="tf2DanceTitle tfDance0014" x="1418" y="0" width="709" height="683" frameX="-2" frameY="-100" frameWidth="750" frameHeight="786" />
+<SubTexture name="tf2DanceTitle tfDance0015" x="709" y="0" width="709" height="732" frameX="-2" frameY="-50" frameWidth="750" frameHeight="786" />
+<SubTexture name="tf2DanceTitle tfDance0016" x="0" y="0" width="709" height="768" frameX="-2" frameY="-13" frameWidth="750" frameHeight="786" />
+</TextureAtlas>
