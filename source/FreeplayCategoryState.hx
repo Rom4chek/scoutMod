@@ -27,6 +27,12 @@ class FreeplayCategoryState extends MusicBeatState
 	private static var curSelected:Int = 0;
 	var BG:FlxSprite;
 	var sectionImage:FlxSprite;
+
+	var leftArrow:FlxSprite;
+	var rightArrow:FlxSprite;
+
+	final ui_tex = Paths.getSparrowAtlas('campaign_menu_UI_assets');
+
     override function create(){
         BG = new FlxSprite().loadGraphic(Paths.image('menuDesat'));
 		BG.color = 0x44db16;
@@ -42,6 +48,26 @@ class FreeplayCategoryState extends MusicBeatState
             catsText.isMenuItemCool = true;
 			grpCats.add(catsText);
 		}
+
+		if (leftArrow == null){
+			leftArrow = new FlxSprite(10, 300);
+			leftArrow.frames = ui_tex;
+			leftArrow.animation.addByPrefix('idle', "arrow left");
+			leftArrow.animation.addByPrefix('press', "arrow push left");
+			leftArrow.animation.play('idle');
+			leftArrow.antialiasing = ClientPrefs.data.antialiasing;
+		}
+		add(leftArrow);
+		
+		if (rightArrow == null){
+			rightArrow = new FlxSprite(leftArrow.x + 1210, leftArrow.y);
+			rightArrow.frames = ui_tex;
+			rightArrow.animation.addByPrefix('idle', 'arrow right');
+			rightArrow.animation.addByPrefix('press', "arrow push right", 24, false);
+			rightArrow.animation.play('idle');
+			rightArrow.antialiasing = ClientPrefs.data.antialiasing;
+		}
+		add(rightArrow);
 
 		add(sectionImage);
 
@@ -62,13 +88,13 @@ class FreeplayCategoryState extends MusicBeatState
     override public function update(elapsed:Float){
         
 		if (!accepted)
-			{
-				disableInput = false;
-			}
-			else
-			{
-				disableInput = true;
-			}
+		{
+			disableInput = false;
+		}
+		else
+		{
+			disableInput = true;
+		}
 
 		if (!FlxG.sound.music.playing)
 			FlxG.sound.playMusic(Paths.music('freakyMenu'), 1);
