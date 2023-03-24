@@ -45,7 +45,11 @@ class MainMenuState extends MusicBeatState
 	var camFollowPos:FlxObject;
 	var debugKeys:Array<FlxKey>;
 
-	var scout:FlxSprite = new FlxSprite(500, 150).loadGraphic(Paths.image('scout_menu', 'preload'));
+	var scout:FlxSprite = new FlxSprite(550, 150).loadGraphic(Paths.image('scout_menu', 'preload'));
+
+	var bluScout:Character = new Character(0, 0, 'blu-scout-v3', 'shared');
+
+	private var singAnimations:Array<String> = ['singLEFT', 'singDOWN', 'singUP', 'singRIGHT'];
 
 	override function create()
 	{
@@ -99,7 +103,15 @@ class MainMenuState extends MusicBeatState
 
 		menuItems = new FlxTypedGroup<FlxSprite>();
 		add(menuItems);
-		add(scout);
+		scout.scrollFactor.set(0, 0);
+		scout.scale.set(1.2, 1.2);
+		scout.updateHitbox();
+		// add(scout);
+		// above is for reference and old code
+		bluScout.setPosition(scout.x, scout.y);
+		bluScout.flipX = true;
+		bluScout.scrollFactor.set(0, 0);
+		add(bluScout);
 
 		var scale:Float = 1;
 
@@ -109,7 +121,7 @@ class MainMenuState extends MusicBeatState
 			var menuItem:FlxSprite = new FlxSprite(0, (i * 140) + offset);
 			menuItem.scale.x = scale;
 			menuItem.scale.y = scale;
-			menuItem.x = -500;
+			menuItem.x = 50;
 			menuItem.frames = Paths.getSparrowAtlas('mainmenu/menu_' + optionShit[i]);
 			menuItem.animation.addByPrefix('idle', optionShit[i] + " basic", 24);
 			menuItem.animation.addByPrefix('selected', optionShit[i] + " white", 24);
@@ -202,6 +214,9 @@ class MainMenuState extends MusicBeatState
 
 					if(ClientPrefs.flashing) FlxFlicker.flicker(magenta, 1.1, 0.15, false);
 
+					if (bluScout != null)
+						bluScout.playAnim(singAnimations[Std.int(Math.abs(FlxG.random.int(0, 4)))]);
+
 					menuItems.forEach(function(spr:FlxSprite)
 					{
 						if (curSelected != spr.ID)
@@ -274,5 +289,11 @@ class MainMenuState extends MusicBeatState
 				spr.centerOffsets();
 			}
 		});
+	}
+
+	override function beatHit(){
+		if (curBeat % 2 == 0)
+			bluScout.dance();
+		super.beatHit();
 	}
 }
