@@ -108,7 +108,7 @@ class MainMenuState extends MusicBeatState
 		scout.updateHitbox();
 		// add(scout);
 		// above is for reference and old code
-		bluScout.setPosition(scout.x, scout.y);
+		bluScout.setPosition(scout.x + 100, scout.y - 150);
 		bluScout.flipX = true;
 		bluScout.scrollFactor.set(0, 0);
 		add(bluScout);
