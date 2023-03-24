@@ -79,19 +79,15 @@ class Character extends FlxSprite
 	public var healthColorArray:Array<Int> = [255, 0, 0];
 
 	public static var DEFAULT_CHARACTER:String = 'bf'; //In case a character is missing, it will use BF on its place
-	public function new(x:Float, y:Float, ?character:String = 'bf', ?isPlayer:Bool = false)
+
+	public function new(x:Float, y:Float, ?character:String = 'bf', ?isPlayer:Bool = false, ?library:String)
 	{
 		super(x, y);
 
-		#if (haxe >= "4.0.0")
 		animOffsets = new Map();
-		#else
-		animOffsets = new Map<String, Array<Dynamic>>();
-		#end
 		curCharacter = character;
 		this.isPlayer = isPlayer;
 		antialiasing = ClientPrefs.globalAntialiasing;
-		var library:String = null;
 		switch (curCharacter)
 		{
 			//case 'your character name in case you want to hardcode them instead':
@@ -122,19 +118,14 @@ class Character extends FlxSprite
 
 				var json:CharacterFile = cast Json.parse(rawJson);
 				var spriteType = "sparrow";
-				//sparrow
-				//packer
-				//texture
+				//sparrow, packer, texture
 				#if MODS_ALLOWED
 				var modTxtToFind:String = Paths.modsTxt(json.image);
-				var txtToFind:String = Paths.getPath('images/' + json.image + '.txt', TEXT);
-				
-				//var modTextureToFind:String = Paths.modFolders("images/"+json.image);
-				//var textureToFind:String = Paths.getPath('images/' + json.image, new AssetType();
+				var txtToFind:String = Paths.getPath('images/' + json.image + '.txt', TEXT, library);
 				
 				if (FileSystem.exists(modTxtToFind) || FileSystem.exists(txtToFind) || Assets.exists(txtToFind))
 				#else
-				if (Assets.exists(Paths.getPath('images/' + json.image + '.txt', TEXT)))
+				if (Assets.exists(Paths.getPath('images/' + json.image + '.txt', TEXT, library)))
 				#end
 				{
 					spriteType = "packer";
@@ -144,12 +135,9 @@ class Character extends FlxSprite
 				var modAnimToFind:String = Paths.modFolders('images/' + json.image + '/Animation.json');
 				var animToFind:String = Paths.getPath('images/' + json.image + '/Animation.json', TEXT);
 				
-				//var modTextureToFind:String = Paths.modFolders("images/"+json.image);
-				//var textureToFind:String = Paths.getPath('images/' + json.image, new AssetType();
-				
 				if (FileSystem.exists(modAnimToFind) || FileSystem.exists(animToFind) || Assets.exists(animToFind))
 				#else
-				if (Assets.exists(Paths.getPath('images/' + json.image + '/Animation.json', TEXT)))
+				if (Assets.exists(Paths.getPath('images/' + json.image + '/Animation.json', TEXT, library)))
 				#end
 				{
 					spriteType = "texture";
@@ -158,10 +146,10 @@ class Character extends FlxSprite
 				switch (spriteType){
 					
 					case "packer":
-						frames = Paths.getPackerAtlas(json.image);
+						frames = Paths.getPackerAtlas(json.image, library);
 					
 					case "sparrow":
-						frames = Paths.getSparrowAtlas(json.image);
+						frames = Paths.getSparrowAtlas(json.image, library);
 					
 					case "texture":
 						frames = AtlasFrameMaker.construct(json.image);

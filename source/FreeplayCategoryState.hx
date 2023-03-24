@@ -55,7 +55,7 @@ class FreeplayCategoryState extends MusicBeatState
 			leftArrow.animation.addByPrefix('idle', "arrow left");
 			leftArrow.animation.addByPrefix('press', "arrow push left");
 			leftArrow.animation.play('idle');
-			leftArrow.antialiasing = ClientPrefs.antialiasing;
+			leftArrow.antialiasing = ClientPrefs.globalAntialiasing;
 		}
 		add(leftArrow);
 		
@@ -65,7 +65,7 @@ class FreeplayCategoryState extends MusicBeatState
 			rightArrow.animation.addByPrefix('idle', 'arrow right');
 			rightArrow.animation.addByPrefix('press', "arrow push right", 24, false);
 			rightArrow.animation.play('idle');
-			rightArrow.antialiasing = ClientPrefs.antialiasing;
+			rightArrow.antialiasing = ClientPrefs.globalAntialiasing;
 		}
 		add(rightArrow);
 
