@@ -80,7 +80,8 @@ class TitleState extends MusicBeatState
 
 	var titleJSON:TitleData;
 
-	var scout:Character = null;
+	// var scout:Character = null;
+	var scout:FlxSprite = null;
 
 	override public function create():Void
 	{
@@ -118,7 +119,8 @@ class TitleState extends MusicBeatState
 		titleJSON = Json.parse(Paths.getTextFromFile('images/gfDanceTitle.json'));
 
 		if (scout == null){
-			scout = new Character(0, 0, 'blu-scout-v3', false, 'preload');
+			scout = new FlxSprite(0, 0).loadGraphic(Paths.image('scout_menu', 'preload'));
+			// scout = new Character(0, 0, 'blu-scout-v3', false, 'preload');
 			// scout.dance();
 			// add(scout);
 		}
@@ -141,9 +143,9 @@ class TitleState extends MusicBeatState
 				titleJSON.gfy += 100;
 		}
 		#end
-		// scout.x = titleJSON.gfx;
-		// scout.y = titleJSON.gfy;
-		scout.setPosition(titleJSON.gfx, titleJSON.gfy);
+		scout.x = titleJSON.gfx + 100;
+		scout.y = titleJSON.gfy + 150;
+		// scout.setPosition(titleJSON.gfx, titleJSON.gfy);
 
 		if(!initialized)
 		{
@@ -537,8 +539,8 @@ class TitleState extends MusicBeatState
 		if(logoBl != null)
 			logoBl.animation.play('bump', true);
 
-		if(scout != null)
-			scout.dance();
+		// if(scout != null)
+		// 	scout.dance();
 
 		if(!closedState) {
 			sickBeats++;
