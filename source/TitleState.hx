@@ -215,6 +215,7 @@ class TitleState extends MusicBeatState
 		logoBl.antialiasing = ClientPrefs.globalAntialiasing;
 		logoBl.animation.addByPrefix('bump', 'logo bumpin', 24, false);
 		logoBl.animation.play('bump');
+		logoBl.scale.set(0.7, 0.7);
 		logoBl.updateHitbox();
 
 		swagShader = new ColorSwap();
@@ -524,12 +525,12 @@ class TitleState extends MusicBeatState
 	{
 		super.beatHit();
 
-		if(logoBl != null)
-			logoBl.animation.play('bump', true);
+		if (curBeat % 2 == 0)
+			if(logoBl != null)
+				logoBl.animation.play('bump', true);
 
-		if(gfDance != null) {
-			gfDance.animation.play('idle');
-		}
+		if(gfDance != null)
+			gfDance.animation.play('idle', true);
 
 		if(!closedState) {
 			sickBeats++;
