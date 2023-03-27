@@ -118,13 +118,6 @@ class TitleState extends MusicBeatState
 		// IGNORE THIS!!!
 		titleJSON = Json.parse(Paths.getTextFromFile('images/gfDanceTitle.json'));
 
-		if (scout == null){
-			scout = new FlxSprite(0, 0).loadGraphic(Paths.image('scout_menu', 'preload'));
-			// scout = new Character(0, 0, 'blu-scout-v3', false, 'preload');
-			// scout.dance();
-			// add(scout);
-		}
-
 		#if TITLE_SCREEN_EASTER_EGG
 		if (FlxG.save.data.psychDevsEasterEgg == null) FlxG.save.data.psychDevsEasterEgg = ''; //Crash prevention
 		switch(FlxG.save.data.psychDevsEasterEgg.toUpperCase())
@@ -143,9 +136,6 @@ class TitleState extends MusicBeatState
 				titleJSON.gfy += 100;
 		}
 		#end
-		scout.x = titleJSON.gfx + 100;
-		scout.y = titleJSON.gfy + 150;
-		// scout.setPosition(titleJSON.gfx, titleJSON.gfy);
 
 		if(!initialized)
 		{
@@ -258,16 +248,14 @@ class TitleState extends MusicBeatState
 			//EDIT THIS ONE IF YOU'RE MAKING A SOURCE CODE MOD!!!!
 			//EDIT THIS ONE IF YOU'RE MAKING A SOURCE CODE MOD!!!!
 			//EDIT THIS ONE IF YOU'RE MAKING A SOURCE CODE MOD!!!!
-				gfDance.frames = Paths.getSparrowAtlas('gfDanceTitle');
-				gfDance.animation.addByIndices('danceLeft', 'gfDance', [30, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], "", 24, false);
-				gfDance.animation.addByIndices('danceRight', 'gfDance', [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29], "", 24, false);
+			gfDance.frames = Paths.getSparrowAtlas('gfDanceTitle');
+			logoBl.animation.addByPrefix('idle', 'Idle', 24, false);
+			logoBl.animation.play('idle');
 		}
 		gfDance.antialiasing = ClientPrefs.globalAntialiasing;
 
 		add(gfDance);
 		gfDance.shader = swagShader.shader;
-		// add(scout);
-		// scout.shader = swagShader.shader;
 		add(logoBl);
 		logoBl.shader = swagShader.shader;
 
@@ -539,8 +527,9 @@ class TitleState extends MusicBeatState
 		if(logoBl != null)
 			logoBl.animation.play('bump', true);
 
-		if(scout != null)
-			scout.dance();
+		if(gfDance != null) {
+			gfDance.animation.play('idle');
+		}
 
 		if(!closedState) {
 			sickBeats++;
@@ -553,7 +542,7 @@ class TitleState extends MusicBeatState
 					#if PSYCH_WATERMARKS
 					createCoolText(['Scout Mod By'], 15);
 					#else
-					createCoolText(['scout crew xd']);
+					createCoolText(['scout crew lmao']);
 					#end
 				case 4:
 					#if PSYCH_WATERMARKS
