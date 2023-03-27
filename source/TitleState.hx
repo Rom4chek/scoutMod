@@ -539,8 +539,8 @@ class TitleState extends MusicBeatState
 		if(logoBl != null)
 			logoBl.animation.play('bump', true);
 
-		// if(scout != null)
-		// 	scout.dance();
+		if(scout != null)
+			scout.dance();
 
 		if(!closedState) {
 			sickBeats++;
@@ -566,17 +566,13 @@ class TitleState extends MusicBeatState
 				case 5:
 					deleteCoolText();
 				case 6:
-					#if PSYCH_WATERMARKS
 					createCoolText(['Mod is...'], -40);
-					#else
-					createCoolText(['In association', 'with'], -40);
-					#end
 				case 8:
 					addMoreText('hard as fuck', -40);
-					ngSpr.visible = true;
+					//ngSpr.visible = true;
 				case 9:
 					deleteCoolText();
-					ngSpr.visible = false;
+					//ngSpr.visible = false;
 				case 10:
 					createCoolText([curWacky[0]]);
 				case 12:
