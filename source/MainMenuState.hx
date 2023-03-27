@@ -163,6 +163,8 @@ class MainMenuState extends MusicBeatState
 		}
 		#end
 
+		bluScout.dance(); //cuz
+
 		super.create();
 	}
 
