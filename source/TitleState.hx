@@ -249,8 +249,8 @@ class TitleState extends MusicBeatState
 			//EDIT THIS ONE IF YOU'RE MAKING A SOURCE CODE MOD!!!!
 			//EDIT THIS ONE IF YOU'RE MAKING A SOURCE CODE MOD!!!!
 			gfDance.frames = Paths.getSparrowAtlas('gfDanceTitle');
-			logoBl.animation.addByPrefix('idle', 'Idle', 24, false);
-			logoBl.animation.play('idle');
+			gfDance.animation.addByPrefix('idle', 'Idle', 24, false);
+			gfDance.animation.play('idle');
 		}
 		gfDance.antialiasing = ClientPrefs.globalAntialiasing;
 
