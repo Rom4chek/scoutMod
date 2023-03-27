@@ -297,7 +297,7 @@ class MainMenuState extends MusicBeatState
 	}
 
 	override function beatHit(){
-		if (!selectedSomethin)
+		if (selectedSomethin)
 			if (curBeat % 2 == 0)
 				bluScout.dance();
 		super.beatHit();
