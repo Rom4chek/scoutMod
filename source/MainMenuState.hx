@@ -47,7 +47,7 @@ class MainMenuState extends MusicBeatState
 
 	var scout:FlxSprite = new FlxSprite(550, 150).loadGraphic(Paths.image('scout_menu', 'preload'));
 
-	var bluScout:Character = new Character(0, 0, 'blu-scout-v3', 'shared');
+	var bluScout:Character = new Character(0, 0, 'blu-scout-v3-menu', 'shared');
 
 	private var singAnimations:Array<String> = ['singLEFT', 'singDOWN', 'singUP', 'singRIGHT'];
 
