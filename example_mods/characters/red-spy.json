@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"offsets": [
+				170,
+				50
+			],
+			"indices": [],
+			"fps": 22,
+			"anim": "idle",
+			"loop": false,
+			"name": "red-spy idle"
+		},
+		{
+			"offsets": [
+				162,
+				50
+			],
+			"indices": [],
+			"fps": 21,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "red-spy left"
+		},
+		{
+			"offsets": [
+				190,
+				70
+			],
+			"indices": [],
+			"fps": 19,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "red-spy down"
+		},
+		{
+			"offsets": [
+				170,
+				80
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singUP",
+			"loop": false,
+			"name": "red-spy up"
+		},
+		{
+			"offsets": [
+				130,
+				50
+			],
+			"indices": [],
+			"fps": 21,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "red-spy right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/red-spy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "red-spy-icon-old",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		20,
+		0
+	],
+	"camera_position": [
+		-290,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

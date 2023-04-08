@@ -1,0 +1,42 @@
+{
+	"songs": [
+		[
+			"Scout rage old",
+			"mad-scout-icon-old",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"shotgun time old",
+			"mad-scout-icon-old",
+			[
+				100,
+				0,
+				155
+			]
+		]
+	],
+	"category": 4,
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"menu-scout-old",
+		"bf",
+		"gf"
+	],
+	"storyName": "old second socut week",
+	"weekName": "weekScoutRevenge",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week9",
+	"startUnlocked": true
+}

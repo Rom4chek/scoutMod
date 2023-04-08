@@ -1,0 +1,33 @@
+{
+	"songs": [
+		[
+			"Red bonk mist",
+			"red-mist-icon-phase1",
+			[
+				255,
+				0,
+				13
+			]
+		]
+	],
+	"category": 2,
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "i am squidward i am suic... oh wait",
+	"weekName": "weekSquidNext",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

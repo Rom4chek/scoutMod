@@ -1,0 +1,132 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "",
+	"weekBackground": "stage",
+	"hideFreeplay": false,
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"all-bonk-star-old",
+			"shrek-icon-old",
+			[
+				0,
+				200,
+				0
+			]
+		],
+		[
+			"all-bonk-star-older",
+			"shrek-icon-old",
+			[
+				0,
+				200,
+				0
+			]
+		],
+		[
+			"bot-chases-old",
+			"nextbotscout-icon",
+			[
+				80,
+				80,
+				80
+			]
+		],
+		[
+			"bonk-for-murders-old",
+			"mouse-p1",
+			[
+				220,
+				113,
+				0
+			]
+		],
+		[
+			"bonk-old",
+			"scout-icon-old",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"corrupted-bonk-old",
+			"scout-icon-old",
+			[
+				0,
+				33,
+				73
+			]
+		],
+		[
+			"eat-a-salad-old",
+			"scout-icon-old",
+			[
+				0,
+				73,
+				215
+			]
+		],
+		[
+			"jerry-time-old",
+			"mouse-p2",
+			[
+				86,
+				53,
+				0
+			]
+		],
+		[
+			"tiny-baseball-mad-old",
+			"shrek-and-donkey-icon",
+			[
+				120,
+				135,
+				140
+			]
+		],
+		[
+			"ultra-baseball-old",
+			"nightmare-scout-icon",
+			[
+				0,
+				0,
+				55
+			]
+		],
+		[
+			"very-powerful-old",
+			"rage-shrek-icon",
+			[
+				40,
+				73,
+				0
+			]
+		],
+		[
+			"you-cant-bonk-old",
+			"scout-exe-icon",
+			[
+				0,
+				113,
+				253
+			]
+		]
+	],
+	"category": 4,
+	"hideStoryMode": true,
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

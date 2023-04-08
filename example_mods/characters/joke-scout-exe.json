@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				220,
+				-60
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "scuntexe left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 13,
+			"name": "scuntexe down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				-70
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "scuntexe up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				-50
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "scuntexe right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				160,
+				-60
+			],
+			"anim": "idle",
+			"fps": 8,
+			"name": "scuntexe idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/scuntexe",
+	"position": [
+		0,
+		30
+	],
+	"healthicon": "scout-exe-icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		255
+	],
+	"camera_position": [
+		-180,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				-166
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-219
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-161
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-40
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1,
+				-161
+			],
+			"anim": "Summon",
+			"fps": 24,
+			"name": "Fat summon",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				18,
+				-160
+			],
+			"anim": "Result",
+			"fps": 24,
+			"name": "Fat scared",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-160
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "idle",
+			"loop": true,
+			"name": "IdleFat"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/FatNormal",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "fat",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		255
+	],
+	"camera_position": [
+		150,
+		180
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

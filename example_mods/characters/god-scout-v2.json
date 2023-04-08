@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				610,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				150,
+				-76
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				219,
+				123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				36,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				50,
+				-20
+			],
+			"loop": true,
+			"fps": 22,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				130,
+				-20
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "attack",
+			"indices": [],
+			"name": "attack0"
+		},
+		{
+			"offsets": [
+				80,
+				-140
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": true,
+			"name": "scream"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/god-scout-v2",
+	"position": [
+		20,
+		-290
+	],
+	"healthicon": "god",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		150,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

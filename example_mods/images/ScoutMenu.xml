@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ScoutMenu.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="scoutmenu0000" x="0" y="0" width="699" height="749" frameX="-2" frameY="0" frameWidth="704" frameHeight="749"/>
+	<SubTexture name="scoutmenu0001" x="0" y="0" width="699" height="749" frameX="-2" frameY="0" frameWidth="704" frameHeight="749"/>
+	<SubTexture name="scoutmenu0002" x="0" y="0" width="699" height="749" frameX="-2" frameY="0" frameWidth="704" frameHeight="749"/>
+	<SubTexture name="scoutmenu0003" x="0" y="0" width="699" height="749" frameX="-2" frameY="0" frameWidth="704" frameHeight="749"/>
+	<SubTexture name="scoutmenu0004" x="0" y="0" width="699" height="749" frameX="-2" frameY="0" frameWidth="704" frameHeight="749"/>
+	<SubTexture name="scoutmenu0005" x="0" y="0" width="699" height="749" frameX="-2" frameY="0" frameWidth="704" frameHeight="749"/>
+	<SubTexture name="scoutmenu0006" x="0" y="0" width="699" height="749" frameX="-2" frameY="0" frameWidth="704" frameHeight="749"/>
+	<SubTexture name="scoutmenu0007" x="0" y="0" width="699" height="749" frameX="-2" frameY="0" frameWidth="704" frameHeight="749"/>
+	<SubTexture name="scoutmenu0008" x="0" y="0" width="699" height="749" frameX="-2" frameY="0" frameWidth="704" frameHeight="749"/>
+	<SubTexture name="scoutmenu0009" x="0" y="0" width="699" height="749" frameX="-2" frameY="0" frameWidth="704" frameHeight="749"/>
+	<SubTexture name="scoutmenu0010" x="0" y="0" width="699" height="749" frameX="-2" frameY="0" frameWidth="704" frameHeight="749"/>
+	<SubTexture name="scoutmenu0011" x="0" y="0" width="699" height="749" frameX="-2" frameY="0" frameWidth="704" frameHeight="749"/>
+	<SubTexture name="scoutmenu0012" x="0" y="0" width="699" height="749" frameX="-2" frameY="0" frameWidth="704" frameHeight="749"/>
+	<SubTexture name="scoutmenu0013" x="0" y="0" width="699" height="749" frameX="-2" frameY="0" frameWidth="704" frameHeight="749"/>
+	<SubTexture name="scoutmenu0014" x="0" y="0" width="699" height="749" frameX="-2" frameY="0" frameWidth="704" frameHeight="749"/>
+	<SubTexture name="scoutmenu0015" x="0" y="0" width="699" height="749" frameX="-2" frameY="0" frameWidth="704" frameHeight="749"/>
+	<SubTexture name="scoutmenu0016" x="0" y="0" width="699" height="749" frameX="-2" frameY="0" frameWidth="704" frameHeight="749"/>
+	<SubTexture name="scoutmenu0017" x="0" y="0" width="699" height="749" frameX="-2" frameY="0" frameWidth="704" frameHeight="749"/>
+	<SubTexture name="scoutmenu0018" x="0" y="0" width="699" height="749" frameX="-2" frameY="0" frameWidth="704" frameHeight="749"/>
+	<SubTexture name="scoutmenu0019" x="699" y="0" width="704" height="713" frameX="0" frameY="-36" frameWidth="704" frameHeight="749"/>
+	<SubTexture name="scoutmenu0020" x="1403" y="0" width="704" height="726" frameX="0" frameY="-23" frameWidth="704" frameHeight="749"/>
+	<SubTexture name="scoutmenu0021" x="2107" y="0" width="699" height="740" frameX="-2" frameY="-9" frameWidth="704" frameHeight="749"/>
+	<SubTexture name="scoutmenu0022" x="2806" y="0" width="699" height="747" frameX="-2" frameY="-2" frameWidth="704" frameHeight="749"/>
+	<SubTexture name="scoutmenu0023" x="0" y="0" width="699" height="749" frameX="-2" frameY="0" frameWidth="704" frameHeight="749"/>
+</TextureAtlas>

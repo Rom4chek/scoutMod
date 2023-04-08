@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu-scout.png"><SubTexture name="menu-scout idle0000" x="0" y="0" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="menu-scout idle0001" x="754" y="0" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="menu-scout idle0002" x="0" y="790" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="menu-scout idle0003" x="754" y="790" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+</TextureAtlas>

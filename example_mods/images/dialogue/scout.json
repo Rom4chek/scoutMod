@@ -1,0 +1,25 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-30,
+		-10
+	],
+	"no_antialiasing": true,
+	"scale": 1.6,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "talking",
+			"idle_name": "talking"
+		}
+	],
+	"image": "scout_dialogue"
+}

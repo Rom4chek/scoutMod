@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-20
+			],
+			"anim": "idle",
+			"fps": 18,
+			"name": "scoutpngidleremastered",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-30
+			],
+			"anim": "singLEFT",
+			"fps": 18,
+			"name": "leftposeremastered",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				90
+			],
+			"anim": "singUP",
+			"fps": 26,
+			"name": "upposeremastered",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-30
+			],
+			"anim": "singRIGHT",
+			"fps": 36,
+			"name": "rightposeremastered",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 22,
+			"name": "downposeremastered",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/scout-dside",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "scout-d-side-icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		6
+	],
+	"camera_position": [
+		-70,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

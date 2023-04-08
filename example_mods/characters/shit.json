@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				281
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Fart Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				919,
+				200
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT Mov",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-208,
+				70
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT mov",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-87,
+				-52
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN mov",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				532
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP mov",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-90,
+				98
+			],
+			"anim": "Summon",
+			"fps": 24,
+			"name": "Summoning",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				10,
+				35
+			],
+			"anim": "Result",
+			"fps": 24,
+			"name": "HERE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ShitNormal",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "shit",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		230,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

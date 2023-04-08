@@ -222,7 +222,7 @@ class MainMenuState extends MusicBeatState
 					if(ClientPrefs.flashing) FlxFlicker.flicker(magenta, 1.1, 0.15, false);
 
 					if (bluScout != null)
-						bluScout.playAnim(singAnimations[Std.int(Math.abs(FlxG.random.int(0, 4)))]);
+						bluScout.playAnim(singAnimations[Std.int(Math.abs(FlxG.random.int(0, 3)))]);
 
 					menuItems.forEach(function(spr:FlxSprite)
 					{

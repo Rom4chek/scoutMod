@@ -1,0 +1,5 @@
+gf name
+type a 'hex' or 'rgb' code
+is it 'hex' or 'rgb' code
+
+line 3 does nothing since as of right now I couldn't get RGB codes to work

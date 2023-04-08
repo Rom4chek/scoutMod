@@ -1,0 +1,9 @@
+Value 1: Which character 'dad', 'gf' or 'bf'?
+Value 2: Your options are colorsync and blur.                    (then on, off shit)
+
+Also if you say 'all' in value 1 it affects each character
+but you can't do it separately for blur as of right now.
+
+Value 2 Examples -
+    colorsync off
+    blur on

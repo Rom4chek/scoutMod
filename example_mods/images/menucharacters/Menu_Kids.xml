@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Kids.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="M Kids Idle0000" x="0" y="0" width="558" height="388" frameX="-50" frameY="0" frameWidth="608" frameHeight="388"/>
+	<SubTexture name="M Kids Idle0001" x="0" y="0" width="558" height="388" frameX="-50" frameY="0" frameWidth="608" frameHeight="388"/>
+	<SubTexture name="M Kids Idle0002" x="568" y="0" width="511" height="388" frameX="-22" frameY="0" frameWidth="608" frameHeight="388"/>
+	<SubTexture name="M Kids Idle0003" x="568" y="0" width="511" height="388" frameX="-22" frameY="0" frameWidth="608" frameHeight="388"/>
+	<SubTexture name="M Kids Idle0004" x="1089" y="0" width="438" height="388" frameX="0" frameY="0" frameWidth="608" frameHeight="388"/>
+	<SubTexture name="M Kids Idle0005" x="1089" y="0" width="438" height="388" frameX="0" frameY="0" frameWidth="608" frameHeight="388"/>
+	<SubTexture name="M Kids Idle0006" x="1537" y="0" width="472" height="388" frameX="-42" frameY="0" frameWidth="608" frameHeight="388"/>
+	<SubTexture name="M Kids Idle0007" x="0" y="398" width="468" height="388" frameX="-46" frameY="0" frameWidth="608" frameHeight="388"/>
+	<SubTexture name="M Kids Idle0008" x="0" y="398" width="468" height="388" frameX="-46" frameY="0" frameWidth="608" frameHeight="388"/>
+	<SubTexture name="M Kids Idle0009" x="0" y="398" width="468" height="388" frameX="-46" frameY="0" frameWidth="608" frameHeight="388"/>
+	<SubTexture name="M Kids Idle0010" x="0" y="398" width="468" height="388" frameX="-46" frameY="0" frameWidth="608" frameHeight="388"/>
+	<SubTexture name="M Kids Idle0011" x="0" y="398" width="468" height="388" frameX="-46" frameY="0" frameWidth="608" frameHeight="388"/>
+	<SubTexture name="M Kids Idle0012" x="0" y="398" width="468" height="388" frameX="-46" frameY="0" frameWidth="608" frameHeight="388"/>
+	<SubTexture name="M Kids Idle0013" x="0" y="398" width="468" height="388" frameX="-46" frameY="0" frameWidth="608" frameHeight="388"/>
+	<SubTexture name="M Kids Idle0014" x="0" y="398" width="468" height="388" frameX="-46" frameY="0" frameWidth="608" frameHeight="388"/>
+	<SubTexture name="M Kids Idle0015" x="0" y="398" width="468" height="388" frameX="-46" frameY="0" frameWidth="608" frameHeight="388"/>
+</TextureAtlas>

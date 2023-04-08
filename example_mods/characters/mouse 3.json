@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				3
+			],
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "Mouse Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-115,
+				-186
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mouse Sing UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mouse Sing RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				-296
+			],
+			"anim": "fuck you",
+			"fps": 24,
+			"name": "Mouse attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-121,
+				-192
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mouse Sing LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-67,
+				-185
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Mouse Sing DOWN",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MOUSE PH3",
+	"position": [
+		-90,
+		110
+	],
+	"healthicon": "icon-mouse-p3",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		70,
+		20
+	],
+	"camera_position": [
+		-310,
+		-300
+	],
+	"sing_duration": 6.99999999999999,
+	"scale": 1.9
+}

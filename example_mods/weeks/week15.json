@@ -1,0 +1,258 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "",
+	"weekBackground": "stage",
+	"hideFreeplay": false,
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"3d pain",
+			"3d-scout-icon",
+			[
+				0,
+				160,
+				220
+			]
+		],
+		[
+			"baseball powers",
+			"3d-scout-icon",
+			[
+				0,
+				120,
+				180
+			]
+		],
+		[
+			"basebot time",
+			"nextbotscout-icon",
+			[
+				80,
+				80,
+				80
+			]
+		],
+		[
+			"bonk bside remake",
+			"bsidescout-icon",
+			[
+				200,
+				0,
+				200
+			]
+		],
+		[
+			"bonk but funni",
+			"scout",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"real sasha",
+			"sasha-icon",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"friendly fire remix",
+			"scout",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"bonk d sides",
+			"scout-d-side-icon",
+			[
+				0,
+				220,
+				0
+			]
+		],
+		[
+			"bot chases",
+			"nextbotscout-icon",
+			[
+				80,
+				80,
+				80
+			]
+		],
+		[
+			"corrupted bonk",
+			"corrupted-scout-icon",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"scary bonk",
+			"scout-exe-icon",
+			[
+				40,
+				0,
+				73
+			]
+		],
+		[
+			"real fail",
+			"blu-sniper-tf2fail-icon",
+			[
+				255,
+				0,
+				80
+			]
+		],
+		[
+			"rekt mlg",
+			"mlgscout-icon",
+			[
+				6,
+				113,
+				253
+			]
+		],
+		[
+			"scot rel",
+			"scot-real-icon",
+			[
+				26,
+				0,
+				255
+			]
+		],
+		[
+			"scot rel 2",
+			"scot-real-icon",
+			[
+				26,
+				0,
+				255
+			]
+		],
+		[
+			"scout seksy",
+			"heavye-icon",
+			[
+				206,
+				100,
+				0
+			]
+		],
+		[
+			"scout spam",
+			"scout-icon-old",
+			[
+				26,
+				0,
+				255
+			]
+		],
+		[
+			"the heavy song",
+			"heavy-icon",
+			[
+				246,
+				140,
+				0
+			]
+		],
+		[
+			"the real scout",
+			"real-scout-icon",
+			[
+				26,
+				0,
+				255
+			]
+		],
+		[
+			"the scary revenge",
+			"crazy-scout-icon",
+			[
+				0,
+				0,
+				53
+			]
+		],
+		[
+			"the scout",
+			"bad-scout-icon-old",
+			[
+				26,
+				0,
+				255
+			]
+		],
+		[
+			"the scout 2",
+			"bad-scout-icon",
+			[
+				26,
+				0,
+				255
+			]
+		],
+		[
+			"the shellnut",
+			"scout-shellnut-icon",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"the teleporter",
+			"heavy-icon",
+			[
+				246,
+				140,
+				0
+			]
+		],
+		[
+			"ultra baseball",
+			"ntmr-scout-icon-v2",
+			[
+				0,
+				0,
+				113
+			]
+		],
+		[
+			"you cant bonk",
+			"scout-exe-icon",
+			[
+				40,
+				0,
+				73
+			]
+		]
+	],
+	"category": 1,
+	"hideStoryMode": true,
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

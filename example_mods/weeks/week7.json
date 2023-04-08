@@ -1,0 +1,51 @@
+{
+	"songs": [
+		[
+			"no diamonds and bonk",
+			"stev-icon",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"spammo baseball",
+			"stev-icon",
+			[
+				195,
+				195,
+				195
+			]
+		],
+		[
+			"vibing revenge",
+			"mad-stev-icon",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"category": 2,
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"stev",
+		"bf",
+		"s"
+	],
+	"storyName": "Cubic funny rap battle lol ig",
+	"weekName": "weekStev",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week7",
+	"startUnlocked": true
+}

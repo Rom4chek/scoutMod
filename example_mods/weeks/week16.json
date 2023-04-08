@@ -1,0 +1,132 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "",
+	"weekBackground": "stage",
+	"hideFreeplay": false,
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"category": 3,
+	"songs": [
+		[
+			"faker",
+			"scout",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"welcome",
+			"scot-real-icon",
+			[
+				0,
+				0,
+				195
+			]
+		],
+		[
+			"final destination",
+			"sc-and-rsc-icon",
+			[
+				255,
+				0,
+				255
+			]
+		],
+		[
+			"kaboom",
+			"scout",
+			[
+				146,
+				113,
+				93
+			]
+		],
+		[
+			"drowning but sc and sh",
+			"mad-shrek-icon",
+			[
+				86,
+				113,
+				135
+			]
+		],
+		[
+			"drowning but sc and sc",
+			"red-scout-icon",
+			[
+				46,
+				73,
+				95
+			]
+		],
+		[
+			"too slow",
+			"scout-exe-icon",
+			[
+				0,
+				0,
+				135
+			]
+		],
+		[
+			"triple trouble",
+			"tt-scouticon",
+			[
+				0,
+				0,
+				55
+			]
+		],
+		[
+			"bloodshed",
+			"icon-scoutAngrierAnger",
+			[
+				0,
+				13,
+				255
+			]
+		],
+		[
+			"finale",
+			"icon-god",
+			[
+				86,
+				0,
+				0
+			]
+		],
+		[
+			"unfairness",
+			"3d-scout-icon",
+			[
+				0,
+				0,
+				193
+			]
+		],
+		[
+			"og",
+			"scout-icon-old",
+			[
+				0,
+				0,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rel-scot.png">
+<SubTexture name="rel-scot idle0000" x="0" y="0" width="690" height="1030" frameX="0" frameY="0" frameWidth="692" frameHeight="1068" />
+<SubTexture name="rel-scot left0000" x="690" y="1030" width="453" height="1011" frameX="-105" frameY="-22" frameWidth="692" frameHeight="1068" />
+<SubTexture name="rel-scot down0000" x="1380" y="0" width="690" height="1030" frameX="0" frameY="-38" frameWidth="692" frameHeight="1068" />
+<SubTexture name="rel-scot up0000" x="690" y="0" width="690" height="1030" frameX="-2" frameY="0" frameWidth="692" frameHeight="1068" />
+<SubTexture name="rel-scot right0000" x="0" y="1030" width="690" height="1030" frameX="-2" frameY="-38" frameWidth="692" frameHeight="1068" />
+</TextureAtlas>

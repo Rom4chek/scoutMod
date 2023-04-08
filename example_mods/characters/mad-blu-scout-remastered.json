@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				20,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "madscoutidle"
+		},
+		{
+			"offsets": [
+				-8,
+				-60
+			],
+			"loop": false,
+			"fps": 23,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "angryleftpose"
+		},
+		{
+			"offsets": [
+				110,
+				-100
+			],
+			"loop": false,
+			"fps": 23,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "angrydownpose"
+		},
+		{
+			"offsets": [
+				-70,
+				161
+			],
+			"loop": false,
+			"fps": 26,
+			"anim": "singUP",
+			"indices": [],
+			"name": "maduppose"
+		},
+		{
+			"offsets": [
+				70,
+				40
+			],
+			"loop": false,
+			"fps": 36,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "angryrightpose"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/madscoutremastered",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mad-scout-icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		102,
+		206
+	],
+	"camera_position": [
+		-200,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

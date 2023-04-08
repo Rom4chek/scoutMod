@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="god-scout.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="holyscoutdown0000" x="0" y="0" width="508" height="758" frameX="-17" frameY="-7" frameWidth="525" frameHeight="765"/>
+	<SubTexture name="holyscoutdown0001" x="508" y="0" width="504" height="724" frameX="0" frameY="-41" frameWidth="525" frameHeight="765"/>
+	<SubTexture name="holyscoutdown0002" x="1012" y="0" width="476" height="732" frameX="-16" frameY="-33" frameWidth="525" frameHeight="765"/>
+	<SubTexture name="holyscoutdown0003" x="1488" y="0" width="496" height="745" frameX="-7" frameY="-20" frameWidth="525" frameHeight="765"/>
+	<SubTexture name="holyscoutdown0004" x="1984" y="0" width="508" height="759" frameX="-17" frameY="-6" frameWidth="525" frameHeight="765"/>
+	<SubTexture name="holyscoutdown0005" x="2492" y="0" width="504" height="765" frameX="0" frameY="0" frameWidth="525" frameHeight="765"/>
+	<SubTexture name="holyscoutdown0006" x="2996" y="0" width="476" height="765" frameX="-16" frameY="0" frameWidth="525" frameHeight="765"/>
+	<SubTexture name="holyscoutdown0007" x="3472" y="0" width="496" height="765" frameX="-7" frameY="0" frameWidth="525" frameHeight="765"/>
+	<SubTexture name="holyscoutdown0008" x="0" y="765" width="508" height="765" frameX="-17" frameY="0" frameWidth="525" frameHeight="765"/>
+	<SubTexture name="holyscoutdown0009" x="2492" y="0" width="504" height="765" frameX="0" frameY="0" frameWidth="525" frameHeight="765"/>
+	<SubTexture name="holyscoutdown0010" x="2996" y="0" width="476" height="765" frameX="-16" frameY="0" frameWidth="525" frameHeight="765"/>
+	<SubTexture name="holyscoutdown0011" x="3472" y="0" width="496" height="765" frameX="-7" frameY="0" frameWidth="525" frameHeight="765"/>
+	<SubTexture name="holyscoutdown0012" x="0" y="765" width="508" height="765" frameX="-17" frameY="0" frameWidth="525" frameHeight="765"/>
+	<SubTexture name="holyscoutdown0013" x="2492" y="0" width="504" height="765" frameX="0" frameY="0" frameWidth="525" frameHeight="765"/>
+	<SubTexture name="holyscoutdown0014" x="2996" y="0" width="476" height="765" frameX="-16" frameY="0" frameWidth="525" frameHeight="765"/>
+	<SubTexture name="holyscoutidle0000" x="508" y="765" width="505" height="775" frameX="-20" frameY="0" frameWidth="525" frameHeight="775"/>
+	<SubTexture name="holyscoutidle0001" x="1013" y="765" width="504" height="775" frameX="0" frameY="0" frameWidth="525" frameHeight="775"/>
+	<SubTexture name="holyscoutidle0002" x="1517" y="765" width="476" height="775" frameX="-16" frameY="0" frameWidth="525" frameHeight="775"/>
+	<SubTexture name="holyscoutidle0003" x="1993" y="765" width="496" height="775" frameX="-7" frameY="0" frameWidth="525" frameHeight="775"/>
+	<SubTexture name="holyscoutleft0000" x="2489" y="765" width="570" height="772"/>
+	<SubTexture name="holyscoutleft0001" x="3059" y="765" width="521" height="772" frameX="-28" frameY="0" frameWidth="570" frameHeight="772"/>
+	<SubTexture name="holyscoutleft0002" x="3580" y="765" width="488" height="772" frameX="-49" frameY="0" frameWidth="570" frameHeight="772"/>
+	<SubTexture name="holyscoutleft0003" x="0" y="1540" width="496" height="772" frameX="-52" frameY="0" frameWidth="570" frameHeight="772"/>
+	<SubTexture name="holyscoutleft0004" x="496" y="1540" width="505" height="772" frameX="-65" frameY="0" frameWidth="570" frameHeight="772"/>
+	<SubTexture name="holyscoutleft0005" x="1001" y="1540" width="504" height="772" frameX="-45" frameY="0" frameWidth="570" frameHeight="772"/>
+	<SubTexture name="holyscoutleft0006" x="1505" y="1540" width="476" height="772" frameX="-61" frameY="0" frameWidth="570" frameHeight="772"/>
+	<SubTexture name="holyscoutleft0007" x="1981" y="1540" width="496" height="772" frameX="-52" frameY="0" frameWidth="570" frameHeight="772"/>
+	<SubTexture name="holyscoutleft0008" x="496" y="1540" width="505" height="772" frameX="-65" frameY="0" frameWidth="570" frameHeight="772"/>
+	<SubTexture name="holyscoutleft0009" x="1001" y="1540" width="504" height="772" frameX="-45" frameY="0" frameWidth="570" frameHeight="772"/>
+	<SubTexture name="holyscoutleft0010" x="1505" y="1540" width="476" height="772" frameX="-61" frameY="0" frameWidth="570" frameHeight="772"/>
+	<SubTexture name="holyscoutleft0011" x="1981" y="1540" width="496" height="772" frameX="-52" frameY="0" frameWidth="570" frameHeight="772"/>
+	<SubTexture name="holyscoutleft0012" x="496" y="1540" width="505" height="772" frameX="-65" frameY="0" frameWidth="570" frameHeight="772"/>
+	<SubTexture name="holyscoutleft0013" x="1001" y="1540" width="504" height="772" frameX="-45" frameY="0" frameWidth="570" frameHeight="772"/>
+	<SubTexture name="holyscoutleft0014" x="1505" y="1540" width="476" height="772" frameX="-61" frameY="0" frameWidth="570" frameHeight="772"/>
+	<SubTexture name="holyscoutright0000" x="2477" y="1540" width="518" height="758" frameX="-19" frameY="0" frameWidth="537" frameHeight="758"/>
+	<SubTexture name="holyscoutright0001" x="2995" y="1540" width="528" height="744" frameX="0" frameY="-14" frameWidth="537" frameHeight="758"/>
+	<SubTexture name="holyscoutright0002" x="3523" y="1540" width="505" height="744" frameX="-16" frameY="-14" frameWidth="537" frameHeight="758"/>
+	<SubTexture name="holyscoutright0003" x="0" y="2312" width="505" height="744" frameX="-7" frameY="-14" frameWidth="537" frameHeight="758"/>
+	<SubTexture name="holyscoutright0004" x="505" y="2312" width="506" height="758" frameX="-19" frameY="0" frameWidth="537" frameHeight="758"/>
+	<SubTexture name="holyscoutright0005" x="1011" y="2312" width="504" height="744" frameX="0" frameY="-14" frameWidth="537" frameHeight="758"/>
+	<SubTexture name="holyscoutright0006" x="1515" y="2312" width="476" height="744" frameX="-16" frameY="-14" frameWidth="537" frameHeight="758"/>
+	<SubTexture name="holyscoutright0007" x="1991" y="2312" width="496" height="744" frameX="-7" frameY="-14" frameWidth="537" frameHeight="758"/>
+	<SubTexture name="holyscoutright0008" x="2487" y="2312" width="508" height="758" frameX="-17" frameY="0" frameWidth="537" frameHeight="758"/>
+	<SubTexture name="holyscoutright0009" x="2995" y="2312" width="504" height="744" frameX="0" frameY="-14" frameWidth="537" frameHeight="758"/>
+	<SubTexture name="holyscoutright0010" x="1515" y="2312" width="476" height="744" frameX="-16" frameY="-14" frameWidth="537" frameHeight="758"/>
+	<SubTexture name="holyscoutright0011" x="1991" y="2312" width="496" height="744" frameX="-7" frameY="-14" frameWidth="537" frameHeight="758"/>
+	<SubTexture name="holyscoutright0012" x="2487" y="2312" width="508" height="758" frameX="-17" frameY="0" frameWidth="537" frameHeight="758"/>
+	<SubTexture name="holyscoutright0013" x="2995" y="2312" width="504" height="744" frameX="0" frameY="-14" frameWidth="537" frameHeight="758"/>
+	<SubTexture name="holyscoutright0014" x="1515" y="2312" width="476" height="744" frameX="-16" frameY="-14" frameWidth="537" frameHeight="758"/>
+	<SubTexture name="holyscoutup0000" x="3499" y="2312" width="508" height="817" frameX="-17" frameY="0" frameWidth="525" frameHeight="817"/>
+	<SubTexture name="holyscoutup0001" x="0" y="3129" width="504" height="802" frameX="0" frameY="-15" frameWidth="525" frameHeight="817"/>
+	<SubTexture name="holyscoutup0002" x="504" y="3129" width="476" height="787" frameX="-16" frameY="-30" frameWidth="525" frameHeight="817"/>
+	<SubTexture name="holyscoutup0003" x="980" y="3129" width="496" height="774" frameX="-7" frameY="-43" frameWidth="525" frameHeight="817"/>
+	<SubTexture name="holyscoutup0004" x="1476" y="3129" width="508" height="766" frameX="-17" frameY="-51" frameWidth="525" frameHeight="817"/>
+	<SubTexture name="holyscoutup0005" x="1984" y="3129" width="504" height="766" frameX="0" frameY="-51" frameWidth="525" frameHeight="817"/>
+	<SubTexture name="holyscoutup0006" x="2488" y="3129" width="476" height="766" frameX="-16" frameY="-51" frameWidth="525" frameHeight="817"/>
+	<SubTexture name="holyscoutup0007" x="2964" y="3129" width="496" height="766" frameX="-7" frameY="-51" frameWidth="525" frameHeight="817"/>
+	<SubTexture name="holyscoutup0008" x="1476" y="3129" width="508" height="766" frameX="-17" frameY="-51" frameWidth="525" frameHeight="817"/>
+	<SubTexture name="holyscoutup0009" x="1984" y="3129" width="504" height="766" frameX="0" frameY="-51" frameWidth="525" frameHeight="817"/>
+	<SubTexture name="holyscoutup0010" x="2488" y="3129" width="476" height="766" frameX="-16" frameY="-51" frameWidth="525" frameHeight="817"/>
+	<SubTexture name="holyscoutup0011" x="2964" y="3129" width="496" height="766" frameX="-7" frameY="-51" frameWidth="525" frameHeight="817"/>
+	<SubTexture name="holyscoutup0012" x="1476" y="3129" width="508" height="766" frameX="-17" frameY="-51" frameWidth="525" frameHeight="817"/>
+	<SubTexture name="holyscoutup0013" x="1984" y="3129" width="504" height="766" frameX="0" frameY="-51" frameWidth="525" frameHeight="817"/>
+	<SubTexture name="holyscoutup0014" x="2488" y="3129" width="476" height="766" frameX="-16" frameY="-51" frameWidth="525" frameHeight="817"/>
+</TextureAtlas>

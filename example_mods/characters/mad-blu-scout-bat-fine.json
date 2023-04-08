@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				18
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				117,
+				-286
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				288
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up angry",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right angry",
+			"indices": []
+		},
+		{
+			"offsets": [
+				50,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-1,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "attack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bluScoutWithBatChill",
+	"position": [
+		-150,
+		-20
+	],
+	"healthicon": "icon-scoutAngry",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		115
+	],
+	"camera_position": [
+		250,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

@@ -1,0 +1,199 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				353,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ShrekLEFT",
+			"playerOffsets": [
+				0,
+				0
+			]
+		},
+		{
+			"offsets": [
+				217,
+				-74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ShrekDOWN",
+			"playerOffsets": [
+				0,
+				0
+			]
+		},
+		{
+			"offsets": [
+				205,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "DonkeyLEFT",
+			"playerOffsets": [
+				0,
+				0
+			]
+		},
+		{
+			"offsets": [
+				205,
+				74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "DonkeyUP",
+			"playerOffsets": [
+				0,
+				0
+			]
+		},
+		{
+			"offsets": [
+				205,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "DonkeyDOWN",
+			"playerOffsets": [
+				0,
+				0
+			]
+		},
+		{
+			"offsets": [
+				192,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "DonkeyRIGHT",
+			"playerOffsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				260,
+				50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"playerOffsets": [
+				0,
+				0
+			],
+			"name": "ShrekIDLE ser",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				354,
+				30
+			],
+			"anim": "you",
+			"fps": 24,
+			"playerOffsets": [
+				0,
+				0
+			],
+			"name": "Now u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				347,
+				112
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"playerOffsets": [
+				0,
+				0
+			],
+			"name": "ShrekUP",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				218,
+				20
+			],
+			"anim": "fool",
+			"fps": 24,
+			"playerOffsets": [
+				0,
+				0
+			],
+			"name": "ShrekIDLE donkey fool",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				218,
+				20
+			],
+			"anim": "what",
+			"fps": 24,
+			"playerOffsets": [
+				0,
+				0
+			],
+			"name": "ShrekIDLE what",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				219,
+				18
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ShrekRIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ShrekPhase29",
+	"position": [
+		150,
+		-50
+	],
+	"healthicon": "shrek-and-donkey-icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		137,
+		193,
+		27
+	],
+	"camera_position": [
+		-90,
+		130
+	],
+	"sing_duration": 7.99999999999999,
+	"scale": 0.6
+}

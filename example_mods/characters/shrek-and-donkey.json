@@ -1,0 +1,186 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				260,
+				50
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "idle",
+			"loop": false,
+			"name": "ShrekIDLE"
+		},
+		{
+			"offsets": [
+				352,
+				29
+			],
+			"indices": [],
+			"fps": 19,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "ShrekLEFT"
+		},
+		{
+			"offsets": [
+				217,
+				-77
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "ShrekDOWN"
+		},
+		{
+			"offsets": [
+				346,
+				110
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "singUP",
+			"loop": false,
+			"name": "ShrekUP"
+		},
+		{
+			"offsets": [
+				217,
+				16
+			],
+			"indices": [],
+			"fps": 19,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "ShrekRIGHT"
+		},
+		{
+			"offsets": [
+				210,
+				10
+			],
+			"indices": [],
+			"fps": 19,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "DonkeyLEFT"
+		},
+		{
+			"offsets": [
+				210,
+				10
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "DonkeyDOWN"
+		},
+		{
+			"offsets": [
+				210,
+				60
+			],
+			"indices": [],
+			"fps": 19,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "DonkeyUP"
+		},
+		{
+			"offsets": [
+				197,
+				11
+			],
+			"indices": [],
+			"fps": 19,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "DonkeyRIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ShrekPhase2",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "shrek-and-donkey-icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		175,
+		0
+	],
+	"camera_position": [
+		-100,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				-90
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bfright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bfdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				140
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bfup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-100
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bfleft",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				160,
+				-90
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bfidle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf-shellnut",
+	"position": [
+		0,
+		20
+	],
+	"healthicon": "bf-shellnut-icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-70,
+		300
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

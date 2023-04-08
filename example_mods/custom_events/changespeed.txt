@@ -1,0 +1,1 @@
+Value1 is the number to increase the song speed by (or if you make it a negative number the speed to decrease)

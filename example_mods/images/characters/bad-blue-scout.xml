@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bad-blue-scout.png"><SubTexture name="bad-blue-scout idle0000" x="0" y="0" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="bad-blue-scout idle0001" x="754" y="0" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="bad-blue-scout idle0002" x="1508" y="0" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="bad-blue-scout idle0003" x="2262" y="0" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="bad-blue-scout idle0004" x="3016" y="0" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="bad-blue-scout idle0005" x="0" y="790" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="bad-blue-scout idle0006" x="754" y="790" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="bad-blue-scout idle0007" x="1508" y="790" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="bad-blue-scout left0000" x="2262" y="790" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="bad-blue-scout left0001" x="3016" y="790" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="bad-blue-scout left0002" x="0" y="1580" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="bad-blue-scout left0003" x="754" y="1580" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="bad-blue-scout left0004" x="1508" y="1580" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="bad-blue-scout down0000" x="2262" y="1580" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="bad-blue-scout down0001" x="3016" y="1580" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="bad-blue-scout down0002" x="0" y="2370" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="bad-blue-scout down0003" x="754" y="2370" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="bad-blue-scout down0004" x="1508" y="2370" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="bad-blue-scout up0000" x="2262" y="2370" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="bad-blue-scout up0001" x="3016" y="2370" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="bad-blue-scout up0002" x="0" y="3160" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="bad-blue-scout up0003" x="754" y="3160" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="bad-blue-scout right0000" x="1508" y="3160" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="bad-blue-scout right0001" x="2262" y="3160" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="bad-blue-scout right0002" x="3016" y="3160" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="bad-blue-scout right0003" x="0" y="3950" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+</TextureAtlas>

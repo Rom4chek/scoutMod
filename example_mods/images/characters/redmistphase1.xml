@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="redmistphase1.png">
+<SubTexture name="redmistphase1 idle dance0000" x="962" y="0" width="476" height="521" frameX="-399" frameY="-175" frameWidth="1280" frameHeight="720" />
+<SubTexture name="redmistphase1 idle dance0001" x="481" y="573" width="476" height="499" frameX="-397" frameY="-175" frameWidth="1280" frameHeight="720" />
+<SubTexture name="redmistphase1 idle dance0002" x="957" y="573" width="476" height="481" frameX="-396" frameY="-167" frameWidth="1280" frameHeight="720" />
+<SubTexture name="redmistphase1 idle dance0003" x="0" y="1073" width="476" height="475" frameX="-397" frameY="-162" frameWidth="1280" frameHeight="720" />
+<SubTexture name="redmistphase1 idle dance0004" x="477" y="1548" width="476" height="454" frameX="-400" frameY="-144" frameWidth="1280" frameHeight="720" />
+<SubTexture name="redmistphase1 sing left0000" x="1438" y="0" width="497" height="478" frameX="-91" frameY="-139" frameWidth="1280" frameHeight="720" />
+<SubTexture name="redmistphase1 sing left0001" x="1438" y="478" width="497" height="477" frameX="-108" frameY="-122" frameWidth="1280" frameHeight="720" />
+<SubTexture name="redmistphase1 sing left0002" x="476" y="1073" width="496" height="473" frameX="-114" frameY="-112" frameWidth="1280" frameHeight="720" />
+<SubTexture name="redmistphase1 sing right0000" x="1448" y="1073" width="473" height="462" frameX="-627" frameY="-167" frameWidth="1280" frameHeight="720" />
+<SubTexture name="redmistphase1 sing right0001" x="1935" y="0" width="475" height="462" frameX="-618" frameY="-162" frameWidth="1280" frameHeight="720" />
+<SubTexture name="redmistphase1 sing right0002" x="0" y="1548" width="477" height="462" frameX="-606" frameY="-153" frameWidth="1280" frameHeight="720" />
+<SubTexture name="redmistphase1 sing up0000" x="0" y="0" width="481" height="573" frameX="-383" frameY="-4" frameWidth="1280" frameHeight="720" />
+<SubTexture name="redmistphase1 sing up0001" x="481" y="0" width="481" height="547" frameX="-381" frameY="-8" frameWidth="1280" frameHeight="720" />
+<SubTexture name="redmistphase1 sing up0002" x="0" y="573" width="481" height="500" frameX="-381" frameY="-11" frameWidth="1280" frameHeight="720" />
+<SubTexture name="redmistphase1 sing down0000" x="1429" y="1548" width="476" height="406" frameX="-408" frameY="-298" frameWidth="1280" frameHeight="720" />
+<SubTexture name="redmistphase1 sing down0001" x="953" y="1548" width="476" height="430" frameX="-406" frameY="-273" frameWidth="1280" frameHeight="720" />
+<SubTexture name="redmistphase1 sing down0002" x="972" y="1073" width="476" height="465" frameX="-406" frameY="-239" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

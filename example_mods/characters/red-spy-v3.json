@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "spyidle red",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "spy left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-83
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "spy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				147
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "spy up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "spy right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				20,
+				13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "spy gentelmans"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/red-spy-v3",
+	"position": [
+		60,
+		60
+	],
+	"healthicon": "spy",
+	"flip_x": false,
+	"healthbar_colors": [
+		123,
+		83,
+		76
+	],
+	"camera_position": [
+		50,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

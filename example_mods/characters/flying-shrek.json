@@ -1,0 +1,186 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				390,
+				430
+			],
+			"loop": true,
+			"fps": 18,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				391,
+				430
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				570,
+				430
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "meme-alt"
+		},
+		{
+			"offsets": [
+				390,
+				430
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				390,
+				430
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "pal-alt"
+		},
+		{
+			"offsets": [
+				389,
+				430
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				455,
+				839
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "a-alt"
+		},
+		{
+			"offsets": [
+				390,
+				430
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				559,
+				430
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "drump-alt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/flying_shrek",
+	"position": [
+		-130,
+		-60
+	],
+	"healthicon": "shrek-and-donkey-icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		175,
+		-2147483648
+	],
+	"camera_position": [
+		-340,
+		-160
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

@@ -1,0 +1,51 @@
+{
+	"songs": [
+		[
+			"Rage quit",
+			"scoutangrythird",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"Friendly fire",
+			"scoutangrieranger",
+			[
+				0,
+				93,
+				193
+			]
+		],
+		[
+			"cheater",
+			"god",
+			[
+				6,
+				0,
+				0
+			]
+		]
+	],
+	"category": 0,
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"menu-scout-v2",
+		"bf",
+		"gf"
+	],
+	"storyName": "Don't mess with him...",
+	"weekName": "weekNever",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week3",
+	"startUnlocked": true
+}

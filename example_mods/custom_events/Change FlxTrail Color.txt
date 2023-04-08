@@ -1,0 +1,6 @@
+Value 1: Which character 'dad', 'gf' or 'bf'?
+Value 2: Use hex codes!
+
+ex: "8000FF" one of my favorite colors!!
+
+                         -- ImaginationSuperHero52806

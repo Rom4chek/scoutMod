@@ -1,0 +1,51 @@
+{
+	"songs": [
+		[
+			"scout lol",
+			"shit",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"too tall xd",
+			"tall",
+			[
+				195,
+				0,
+				255
+			]
+		],
+		[
+			"angry fatboi",
+			"fat",
+			[
+				0,
+				0,
+				255
+			]
+		]
+	],
+	"category": 2,
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"kids",
+		"menu-scout-v2",
+		"gf"
+	],
+	"storyName": "no sexo???",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week5",
+	"startUnlocked": true
+}

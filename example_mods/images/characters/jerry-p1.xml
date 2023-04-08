@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jerry-p1.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jerry DOWN0000" x="0" y="0" width="960" height="540"/>
+	<SubTexture name="jerry DOWN0001" x="960" y="0" width="960" height="540"/>
+	<SubTexture name="jerry DOWN0002" x="1920" y="0" width="960" height="540"/>
+	<SubTexture name="jerry DOWN0003" x="2880" y="0" width="960" height="540"/>
+	<SubTexture name="jerry DOWN0004" x="0" y="540" width="960" height="540"/>
+	<SubTexture name="jerry DOWN0005" x="0" y="0" width="960" height="540"/>
+	<SubTexture name="jerry LEFT0000" x="960" y="540" width="960" height="540"/>
+	<SubTexture name="jerry LEFT0001" x="1920" y="540" width="960" height="540"/>
+	<SubTexture name="jerry LEFT0002" x="2880" y="540" width="960" height="540"/>
+	<SubTexture name="jerry LEFT0003" x="0" y="1080" width="960" height="540"/>
+	<SubTexture name="jerry LEFT0004" x="960" y="1080" width="960" height="540"/>
+	<SubTexture name="jerry LEFT0005" x="960" y="540" width="960" height="540"/>
+	<SubTexture name="jerry RIGHT0000" x="1920" y="1080" width="960" height="540"/>
+	<SubTexture name="jerry RIGHT0001" x="2880" y="1080" width="960" height="540"/>
+	<SubTexture name="jerry RIGHT0002" x="0" y="1620" width="960" height="540"/>
+	<SubTexture name="jerry RIGHT0003" x="960" y="1620" width="960" height="540"/>
+	<SubTexture name="jerry RIGHT0004" x="1920" y="1620" width="960" height="540"/>
+	<SubTexture name="jerry RIGHT0005" x="1920" y="1080" width="960" height="540"/>
+	<SubTexture name="jerry UP0000" x="2880" y="1620" width="960" height="540"/>
+	<SubTexture name="jerry UP0001" x="0" y="2160" width="960" height="540"/>
+	<SubTexture name="jerry UP0002" x="960" y="2160" width="960" height="540"/>
+	<SubTexture name="jerry UP0003" x="1920" y="2160" width="960" height="540"/>
+	<SubTexture name="jerry UP0004" x="2880" y="2160" width="960" height="540"/>
+	<SubTexture name="jerry UP0005" x="2880" y="1620" width="960" height="540"/>
+	<SubTexture name="jerry idle0000" x="0" y="2700" width="960" height="540"/>
+	<SubTexture name="jerry idle0001" x="960" y="2700" width="960" height="540"/>
+	<SubTexture name="jerry idle0002" x="1920" y="2700" width="960" height="540"/>
+	<SubTexture name="jerry idle0003" x="2880" y="2700" width="960" height="540"/>
+	<SubTexture name="jerry idle0004" x="0" y="3240" width="960" height="540"/>
+	<SubTexture name="jerry idle0005" x="960" y="3240" width="960" height="540"/>
+	<SubTexture name="jerry idle0006" x="1920" y="3240" width="960" height="540"/>
+	<SubTexture name="jerry idle0007" x="2880" y="3240" width="960" height="540"/>
+</TextureAtlas>

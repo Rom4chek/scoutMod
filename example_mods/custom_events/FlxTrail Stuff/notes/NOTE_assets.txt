@@ -1,0 +1,7 @@
+NOTE_assets
+c24b99
+00ffff
+12fa05
+f9393f
+true
+ffff00

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				290
+			],
+			"anim": "singUP",
+			"fps": 26,
+			"name": "Up angry",
+			"indices": []
+		},
+		{
+			"offsets": [
+				208,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				260,
+				-285
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				50,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				42,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right angry"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ScoutPNGVeryAngry_Assets",
+	"position": [
+		20,
+		-20
+	],
+	"healthicon": "icon-scoutAngryThird",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		0,
+		95
+	],
+	"camera_position": [
+		50,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

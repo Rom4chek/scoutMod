@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="scout-nextbot.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="scoutnextbotdown0000" x="0" y="0" width="1403" height="270" frameX="0" frameY="-540" frameWidth="1403" frameHeight="831"/>
+	<SubTexture name="scoutnextbotdown0001" x="1403" y="0" width="1143" height="388" frameX="-131" frameY="-420" frameWidth="1403" frameHeight="831"/>
+	<SubTexture name="scoutnextbotdown0002" x="2546" y="0" width="940" height="670" frameX="-235" frameY="-161" frameWidth="1403" frameHeight="831"/>
+	<SubTexture name="scoutnextbotdown0003" x="3486" y="0" width="873" height="829" frameX="-270" frameY="0" frameWidth="1403" frameHeight="831"/>
+	<SubTexture name="scoutnextbotdown0004" x="3486" y="0" width="873" height="829" frameX="-270" frameY="0" frameWidth="1403" frameHeight="831"/>
+	<SubTexture name="scoutnextbotdown0005" x="3486" y="0" width="873" height="829" frameX="-270" frameY="0" frameWidth="1403" frameHeight="831"/>
+	<SubTexture name="scoutnextbotdown0006" x="3486" y="0" width="873" height="829" frameX="-270" frameY="0" frameWidth="1403" frameHeight="831"/>
+	<SubTexture name="scoutnextbotdown0007" x="3486" y="0" width="873" height="829" frameX="-270" frameY="0" frameWidth="1403" frameHeight="831"/>
+	<SubTexture name="scoutnextbotdown0008" x="3486" y="0" width="873" height="829" frameX="-270" frameY="0" frameWidth="1403" frameHeight="831"/>
+	<SubTexture name="scoutnextbotdown0009" x="3486" y="0" width="873" height="829" frameX="-270" frameY="0" frameWidth="1403" frameHeight="831"/>
+	<SubTexture name="scoutnextbotdown0010" x="3486" y="0" width="873" height="829" frameX="-270" frameY="0" frameWidth="1403" frameHeight="831"/>
+	<SubTexture name="scoutnextbotdown0011" x="3486" y="0" width="873" height="829" frameX="-270" frameY="0" frameWidth="1403" frameHeight="831"/>
+	<SubTexture name="scoutnextbotdown0012" x="3486" y="0" width="873" height="829" frameX="-270" frameY="0" frameWidth="1403" frameHeight="831"/>
+	<SubTexture name="scoutnextbotdown0013" x="3486" y="0" width="873" height="829" frameX="-270" frameY="0" frameWidth="1403" frameHeight="831"/>
+	<SubTexture name="scoutnextbotdown0014" x="3486" y="0" width="873" height="829" frameX="-270" frameY="0" frameWidth="1403" frameHeight="831"/>
+	<SubTexture name="scoutnextbotidle0000" x="4359" y="0" width="538" height="538" frameX="-189" frameY="-34" frameWidth="916" frameHeight="572"/>
+	<SubTexture name="scoutnextbotidle0001" x="4359" y="0" width="538" height="538" frameX="-189" frameY="-34" frameWidth="916" frameHeight="572"/>
+	<SubTexture name="scoutnextbotidle0002" x="4359" y="0" width="538" height="538" frameX="-189" frameY="-34" frameWidth="916" frameHeight="572"/>
+	<SubTexture name="scoutnextbotidle0003" x="4897" y="0" width="916" height="186" frameX="0" frameY="-381" frameWidth="916" frameHeight="572"/>
+	<SubTexture name="scoutnextbotidle0004" x="5813" y="0" width="875" height="280" frameX="-21" frameY="-272" frameWidth="916" frameHeight="572"/>
+	<SubTexture name="scoutnextbotidle0005" x="6688" y="0" width="677" height="328" frameX="-115" frameY="-220" frameWidth="916" frameHeight="572"/>
+	<SubTexture name="scoutnextbotidle0006" x="7365" y="0" width="435" height="503" frameX="-236" frameY="-68" frameWidth="916" frameHeight="572"/>
+	<SubTexture name="scoutnextbotidle0007" x="7365" y="0" width="435" height="503" frameX="-236" frameY="-68" frameWidth="916" frameHeight="572"/>
+	<SubTexture name="scoutnextbotidle0008" x="0" y="829" width="504" height="562" frameX="-202" frameY="0" frameWidth="916" frameHeight="572"/>
+	<SubTexture name="scoutnextbotleft0000" x="504" y="829" width="1398" height="806"/>
+	<SubTexture name="scoutnextbotleft0001" x="1902" y="829" width="1262" height="806" frameX="-68" frameY="0" frameWidth="1398" frameHeight="806"/>
+	<SubTexture name="scoutnextbotleft0002" x="3164" y="829" width="946" height="806" frameX="-226" frameY="0" frameWidth="1398" frameHeight="806"/>
+	<SubTexture name="scoutnextbotleft0003" x="4110" y="829" width="858" height="806" frameX="-270" frameY="0" frameWidth="1398" frameHeight="806"/>
+	<SubTexture name="scoutnextbotleft0004" x="4110" y="829" width="858" height="806" frameX="-270" frameY="0" frameWidth="1398" frameHeight="806"/>
+	<SubTexture name="scoutnextbotleft0005" x="4110" y="829" width="858" height="806" frameX="-270" frameY="0" frameWidth="1398" frameHeight="806"/>
+	<SubTexture name="scoutnextbotleft0006" x="4110" y="829" width="858" height="806" frameX="-270" frameY="0" frameWidth="1398" frameHeight="806"/>
+	<SubTexture name="scoutnextbotleft0007" x="4110" y="829" width="858" height="806" frameX="-270" frameY="0" frameWidth="1398" frameHeight="806"/>
+	<SubTexture name="scoutnextbotleft0008" x="4110" y="829" width="858" height="806" frameX="-270" frameY="0" frameWidth="1398" frameHeight="806"/>
+	<SubTexture name="scoutnextbotleft0009" x="4110" y="829" width="858" height="806" frameX="-270" frameY="0" frameWidth="1398" frameHeight="806"/>
+	<SubTexture name="scoutnextbotright0000" x="4968" y="829" width="1574" height="733" frameX="0" frameY="-4" frameWidth="1574" frameHeight="741"/>
+	<SubTexture name="scoutnextbotright0001" x="6542" y="829" width="1132" height="737" frameX="-221" frameY="-2" frameWidth="1574" frameHeight="741"/>
+	<SubTexture name="scoutnextbotright0002" x="0" y="1635" width="865" height="741" frameX="-355" frameY="0" frameWidth="1574" frameHeight="741"/>
+	<SubTexture name="scoutnextbotright0003" x="865" y="1635" width="797" height="741" frameX="-389" frameY="0" frameWidth="1574" frameHeight="741"/>
+	<SubTexture name="scoutnextbotright0004" x="1662" y="1635" width="763" height="741" frameX="-406" frameY="0" frameWidth="1574" frameHeight="741"/>
+	<SubTexture name="scoutnextbotright0005" x="1662" y="1635" width="763" height="741" frameX="-406" frameY="0" frameWidth="1574" frameHeight="741"/>
+	<SubTexture name="scoutnextbotright0006" x="1662" y="1635" width="763" height="741" frameX="-406" frameY="0" frameWidth="1574" frameHeight="741"/>
+	<SubTexture name="scoutnextbotright0007" x="1662" y="1635" width="763" height="741" frameX="-406" frameY="0" frameWidth="1574" frameHeight="741"/>
+	<SubTexture name="scoutnextbotright0008" x="1662" y="1635" width="763" height="741" frameX="-406" frameY="0" frameWidth="1574" frameHeight="741"/>
+	<SubTexture name="scoutnextbotright0009" x="1662" y="1635" width="763" height="741" frameX="-406" frameY="0" frameWidth="1574" frameHeight="741"/>
+	<SubTexture name="scoutnextbotright0010" x="1662" y="1635" width="763" height="741" frameX="-406" frameY="0" frameWidth="1574" frameHeight="741"/>
+	<SubTexture name="scoutnextbotright0011" x="1662" y="1635" width="763" height="741" frameX="-406" frameY="0" frameWidth="1574" frameHeight="741"/>
+	<SubTexture name="scoutnextbotright0012" x="1662" y="1635" width="763" height="741" frameX="-406" frameY="0" frameWidth="1574" frameHeight="741"/>
+	<SubTexture name="scoutnextbotright0013" x="1662" y="1635" width="763" height="741" frameX="-406" frameY="0" frameWidth="1574" frameHeight="741"/>
+	<SubTexture name="scoutnextbotright0014" x="1662" y="1635" width="763" height="741" frameX="-406" frameY="0" frameWidth="1574" frameHeight="741"/>
+	<SubTexture name="scoutnextbotup0000" x="2425" y="1635" width="403" height="1335" frameX="-224" frameY="0" frameWidth="851" frameHeight="1335"/>
+	<SubTexture name="scoutnextbotup0001" x="2828" y="1635" width="754" height="974" frameX="-48" frameY="-301" frameWidth="851" frameHeight="1335"/>
+	<SubTexture name="scoutnextbotup0002" x="3582" y="1635" width="851" height="888" frameX="0" frameY="-415" frameWidth="851" frameHeight="1335"/>
+	<SubTexture name="scoutnextbotup0003" x="4433" y="1635" width="849" height="834" frameX="-1" frameY="-462" frameWidth="851" frameHeight="1335"/>
+	<SubTexture name="scoutnextbotup0004" x="4433" y="1635" width="849" height="834" frameX="-1" frameY="-462" frameWidth="851" frameHeight="1335"/>
+	<SubTexture name="scoutnextbotup0005" x="4433" y="1635" width="849" height="834" frameX="-1" frameY="-462" frameWidth="851" frameHeight="1335"/>
+	<SubTexture name="scoutnextbotup0006" x="4433" y="1635" width="849" height="834" frameX="-1" frameY="-462" frameWidth="851" frameHeight="1335"/>
+	<SubTexture name="scoutnextbotup0007" x="4433" y="1635" width="849" height="834" frameX="-1" frameY="-462" frameWidth="851" frameHeight="1335"/>
+	<SubTexture name="scoutnextbotup0008" x="4433" y="1635" width="849" height="834" frameX="-1" frameY="-462" frameWidth="851" frameHeight="1335"/>
+	<SubTexture name="scoutnextbotup0009" x="4433" y="1635" width="849" height="834" frameX="-1" frameY="-462" frameWidth="851" frameHeight="1335"/>
+	<SubTexture name="scoutnextbotup0010" x="4433" y="1635" width="849" height="834" frameX="-1" frameY="-462" frameWidth="851" frameHeight="1335"/>
+	<SubTexture name="scoutnextbotup0011" x="4433" y="1635" width="849" height="834" frameX="-1" frameY="-462" frameWidth="851" frameHeight="1335"/>
+	<SubTexture name="scoutnextbotup0012" x="4433" y="1635" width="849" height="834" frameX="-1" frameY="-462" frameWidth="851" frameHeight="1335"/>
+	<SubTexture name="scoutnextbotup0013" x="4433" y="1635" width="849" height="834" frameX="-1" frameY="-462" frameWidth="851" frameHeight="1335"/>
+	<SubTexture name="scoutnextbotup0014" x="4433" y="1635" width="849" height="834" frameX="-1" frameY="-462" frameWidth="851" frameHeight="1335"/>
+</TextureAtlas>

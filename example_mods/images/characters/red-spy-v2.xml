@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="red-spy-v2.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spy-down0000" x="0" y="0" width="402" height="826" frameX="0" frameY="-71" frameWidth="402" frameHeight="897"/>
+	<SubTexture name="spy-down0001" x="402" y="0" width="402" height="861" frameX="0" frameY="-36" frameWidth="402" frameHeight="897"/>
+	<SubTexture name="spy-down0002" x="804" y="0" width="402" height="885" frameX="0" frameY="-12" frameWidth="402" frameHeight="897"/>
+	<SubTexture name="spy-down0003" x="1206" y="0" width="402" height="891" frameX="0" frameY="-6" frameWidth="402" frameHeight="897"/>
+	<SubTexture name="spy-down0004" x="1608" y="0" width="402" height="897"/>
+	<SubTexture name="spy-down0005" x="1608" y="0" width="402" height="897"/>
+	<SubTexture name="spy-down0006" x="1608" y="0" width="402" height="897"/>
+	<SubTexture name="spy-down0007" x="1608" y="0" width="402" height="897"/>
+	<SubTexture name="spy-down0008" x="1608" y="0" width="402" height="897"/>
+	<SubTexture name="spy-down0009" x="1608" y="0" width="402" height="897"/>
+	<SubTexture name="spy-down0010" x="1608" y="0" width="402" height="897"/>
+	<SubTexture name="spy-down0011" x="1608" y="0" width="402" height="897"/>
+	<SubTexture name="spy-down0012" x="1608" y="0" width="402" height="897"/>
+	<SubTexture name="spy-down0013" x="1608" y="0" width="402" height="897"/>
+	<SubTexture name="spy-down0014" x="1608" y="0" width="402" height="897"/>
+	<SubTexture name="spy-idle0000" x="2010" y="0" width="403" height="931" frameX="0" frameY="0" frameWidth="434" frameHeight="931"/>
+	<SubTexture name="spy-idle0001" x="2413" y="0" width="394" height="903" frameX="-9" frameY="-28" frameWidth="434" frameHeight="931"/>
+	<SubTexture name="spy-idle0002" x="2807" y="0" width="376" height="864" frameX="-27" frameY="-67" frameWidth="434" frameHeight="931"/>
+	<SubTexture name="spy-idle0003" x="3183" y="0" width="392" height="833" frameX="-42" frameY="-98" frameWidth="434" frameHeight="931"/>
+	<SubTexture name="spy-idle0004" x="3183" y="0" width="392" height="833" frameX="-42" frameY="-98" frameWidth="434" frameHeight="931"/>
+	<SubTexture name="spy-idle0005" x="3575" y="0" width="384" height="776" frameX="-31" frameY="-155" frameWidth="434" frameHeight="931"/>
+	<SubTexture name="spy-idle0006" x="3575" y="0" width="384" height="776" frameX="-31" frameY="-155" frameWidth="434" frameHeight="931"/>
+	<SubTexture name="spy-idle0007" x="3575" y="0" width="384" height="776" frameX="-31" frameY="-155" frameWidth="434" frameHeight="931"/>
+	<SubTexture name="spy-idle0008" x="3575" y="0" width="384" height="776" frameX="-31" frameY="-155" frameWidth="434" frameHeight="931"/>
+	<SubTexture name="spy-idle0009" x="3575" y="0" width="384" height="776" frameX="-31" frameY="-155" frameWidth="434" frameHeight="931"/>
+	<SubTexture name="spy-idle0010" x="3183" y="0" width="392" height="833" frameX="-42" frameY="-98" frameWidth="434" frameHeight="931"/>
+	<SubTexture name="spy-idle0011" x="3183" y="0" width="392" height="833" frameX="-42" frameY="-98" frameWidth="434" frameHeight="931"/>
+	<SubTexture name="spy-idle0012" x="2807" y="0" width="376" height="864" frameX="-27" frameY="-67" frameWidth="434" frameHeight="931"/>
+	<SubTexture name="spy-idle0013" x="2413" y="0" width="394" height="903" frameX="-9" frameY="-28" frameWidth="434" frameHeight="931"/>
+	<SubTexture name="spy-idle0014" x="2010" y="0" width="403" height="931" frameX="0" frameY="0" frameWidth="434" frameHeight="931"/>
+	<SubTexture name="spy-idle0015" x="2010" y="0" width="403" height="931" frameX="0" frameY="0" frameWidth="434" frameHeight="931"/>
+	<SubTexture name="spy-idle0016" x="2010" y="0" width="403" height="931" frameX="0" frameY="0" frameWidth="434" frameHeight="931"/>
+	<SubTexture name="spy-idle0017" x="2010" y="0" width="403" height="931" frameX="0" frameY="0" frameWidth="434" frameHeight="931"/>
+	<SubTexture name="spy-idle0018" x="2010" y="0" width="403" height="931" frameX="0" frameY="0" frameWidth="434" frameHeight="931"/>
+	<SubTexture name="spy-idle0019" x="2010" y="0" width="403" height="931" frameX="0" frameY="0" frameWidth="434" frameHeight="931"/>
+	<SubTexture name="spy-left0000" x="0" y="931" width="430" height="925"/>
+	<SubTexture name="spy-left0001" x="430" y="931" width="415" height="925" frameX="-15" frameY="0" frameWidth="430" frameHeight="925"/>
+	<SubTexture name="spy-left0002" x="845" y="931" width="413" height="925" frameX="-17" frameY="0" frameWidth="430" frameHeight="925"/>
+	<SubTexture name="spy-left0003" x="1258" y="931" width="405" height="925" frameX="-25" frameY="0" frameWidth="430" frameHeight="925"/>
+	<SubTexture name="spy-left0004" x="1258" y="931" width="405" height="925" frameX="-25" frameY="0" frameWidth="430" frameHeight="925"/>
+	<SubTexture name="spy-left0005" x="1258" y="931" width="405" height="925" frameX="-25" frameY="0" frameWidth="430" frameHeight="925"/>
+	<SubTexture name="spy-left0006" x="1258" y="931" width="405" height="925" frameX="-25" frameY="0" frameWidth="430" frameHeight="925"/>
+	<SubTexture name="spy-left0007" x="1258" y="931" width="405" height="925" frameX="-25" frameY="0" frameWidth="430" frameHeight="925"/>
+	<SubTexture name="spy-left0008" x="1258" y="931" width="405" height="925" frameX="-25" frameY="0" frameWidth="430" frameHeight="925"/>
+	<SubTexture name="spy-left0009" x="1258" y="931" width="405" height="925" frameX="-25" frameY="0" frameWidth="430" frameHeight="925"/>
+	<SubTexture name="spy-right0000" x="1663" y="931" width="376" height="937" frameX="-29" frameY="0" frameWidth="405" frameHeight="937"/>
+	<SubTexture name="spy-right0001" x="2039" y="931" width="375" height="937" frameX="-17" frameY="0" frameWidth="405" frameHeight="937"/>
+	<SubTexture name="spy-right0002" x="2414" y="931" width="382" height="937" frameX="-10" frameY="0" frameWidth="405" frameHeight="937"/>
+	<SubTexture name="spy-right0003" x="2796" y="931" width="385" height="937" frameX="-7" frameY="0" frameWidth="405" frameHeight="937"/>
+	<SubTexture name="spy-right0004" x="3181" y="931" width="392" height="937" frameX="0" frameY="0" frameWidth="405" frameHeight="937"/>
+	<SubTexture name="spy-right0005" x="3181" y="931" width="392" height="937" frameX="0" frameY="0" frameWidth="405" frameHeight="937"/>
+	<SubTexture name="spy-right0006" x="3181" y="931" width="392" height="937" frameX="0" frameY="0" frameWidth="405" frameHeight="937"/>
+	<SubTexture name="spy-right0007" x="3181" y="931" width="392" height="937" frameX="0" frameY="0" frameWidth="405" frameHeight="937"/>
+	<SubTexture name="spy-right0008" x="3181" y="931" width="392" height="937" frameX="0" frameY="0" frameWidth="405" frameHeight="937"/>
+	<SubTexture name="spy-right0009" x="3181" y="931" width="392" height="937" frameX="0" frameY="0" frameWidth="405" frameHeight="937"/>
+	<SubTexture name="spy-right0010" x="3181" y="931" width="392" height="937" frameX="0" frameY="0" frameWidth="405" frameHeight="937"/>
+	<SubTexture name="spy-right0011" x="3181" y="931" width="392" height="937" frameX="0" frameY="0" frameWidth="405" frameHeight="937"/>
+	<SubTexture name="spy-right0012" x="3181" y="931" width="392" height="937" frameX="0" frameY="0" frameWidth="405" frameHeight="937"/>
+	<SubTexture name="spy-right0013" x="3181" y="931" width="392" height="937" frameX="0" frameY="0" frameWidth="405" frameHeight="937"/>
+	<SubTexture name="spy-right0014" x="3181" y="931" width="392" height="937" frameX="0" frameY="0" frameWidth="405" frameHeight="937"/>
+	<SubTexture name="spy-up0000" x="3573" y="931" width="402" height="928"/>
+	<SubTexture name="spy-up0001" x="0" y="1868" width="402" height="900" frameX="0" frameY="-28" frameWidth="402" frameHeight="928"/>
+	<SubTexture name="spy-up0002" x="402" y="1868" width="401" height="891" frameX="-1" frameY="-37" frameWidth="402" frameHeight="928"/>
+	<SubTexture name="spy-up0003" x="803" y="1868" width="401" height="882" frameX="-1" frameY="-46" frameWidth="402" frameHeight="928"/>
+	<SubTexture name="spy-up0004" x="1204" y="1868" width="401" height="870" frameX="-1" frameY="-58" frameWidth="402" frameHeight="928"/>
+	<SubTexture name="spy-up0005" x="1204" y="1868" width="401" height="870" frameX="-1" frameY="-58" frameWidth="402" frameHeight="928"/>
+	<SubTexture name="spy-up0006" x="1204" y="1868" width="401" height="870" frameX="-1" frameY="-58" frameWidth="402" frameHeight="928"/>
+	<SubTexture name="spy-up0007" x="1204" y="1868" width="401" height="870" frameX="-1" frameY="-58" frameWidth="402" frameHeight="928"/>
+	<SubTexture name="spy-up0008" x="1204" y="1868" width="401" height="870" frameX="-1" frameY="-58" frameWidth="402" frameHeight="928"/>
+	<SubTexture name="spy-up0009" x="1204" y="1868" width="401" height="870" frameX="-1" frameY="-58" frameWidth="402" frameHeight="928"/>
+	<SubTexture name="spy-up0010" x="1204" y="1868" width="401" height="870" frameX="-1" frameY="-58" frameWidth="402" frameHeight="928"/>
+	<SubTexture name="spy-up0011" x="1204" y="1868" width="401" height="870" frameX="-1" frameY="-58" frameWidth="402" frameHeight="928"/>
+	<SubTexture name="spy-up0012" x="1204" y="1868" width="401" height="870" frameX="-1" frameY="-58" frameWidth="402" frameHeight="928"/>
+	<SubTexture name="spy-up0013" x="1204" y="1868" width="401" height="870" frameX="-1" frameY="-58" frameWidth="402" frameHeight="928"/>
+	<SubTexture name="spy-up0014" x="1204" y="1868" width="401" height="870" frameX="-1" frameY="-58" frameWidth="402" frameHeight="928"/>
+</TextureAtlas>

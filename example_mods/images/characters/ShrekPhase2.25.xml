@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ShrekPhase2.25.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DonkeyDOWN SPAM0000" x="0" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyDOWN SPAM0001" x="0" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyDOWN SPAM0002" x="931" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyDOWN SPAM0003" x="931" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyDOWN SPAM0004" x="931" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyDOWN SPAM0005" x="931" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyDOWN SPAM0006" x="931" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyDOWN SPAM0007" x="931" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyDOWN SPAM0008" x="931" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyDOWN SPAM0009" x="931" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyDOWN SPAM0010" x="931" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyDOWN SPAM0011" x="931" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyDOWN SPAM0012" x="931" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyDOWN SPAM0013" x="931" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyDOWN SPAM0014" x="931" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyLEFT SPAM0000" x="1862" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyLEFT SPAM0001" x="1862" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyLEFT SPAM0002" x="2793" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyLEFT SPAM0003" x="2793" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyLEFT SPAM0004" x="2793" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyLEFT SPAM0005" x="2793" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyLEFT SPAM0006" x="2793" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyLEFT SPAM0007" x="2793" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyLEFT SPAM0008" x="2793" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyLEFT SPAM0009" x="2793" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyLEFT SPAM0010" x="2793" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyLEFT SPAM0011" x="2793" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyLEFT SPAM0012" x="2793" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyLEFT SPAM0013" x="2793" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyLEFT SPAM0014" x="2793" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyRIGHT SPAM0000" x="3724" y="0" width="839" height="963" frameX="-60" frameY="0" frameWidth="899" frameHeight="963"/>
+	<SubTexture name="DonkeyRIGHT SPAM0001" x="3724" y="0" width="839" height="963" frameX="-60" frameY="0" frameWidth="899" frameHeight="963"/>
+	<SubTexture name="DonkeyRIGHT SPAM0002" x="4573" y="0" width="899" height="963"/>
+	<SubTexture name="DonkeyRIGHT SPAM0003" x="4573" y="0" width="899" height="963"/>
+	<SubTexture name="DonkeyRIGHT SPAM0004" x="4573" y="0" width="899" height="963"/>
+	<SubTexture name="DonkeyRIGHT SPAM0005" x="4573" y="0" width="899" height="963"/>
+	<SubTexture name="DonkeyRIGHT SPAM0006" x="4573" y="0" width="899" height="963"/>
+	<SubTexture name="DonkeyRIGHT SPAM0007" x="4573" y="0" width="899" height="963"/>
+	<SubTexture name="DonkeyRIGHT SPAM0008" x="4573" y="0" width="899" height="963"/>
+	<SubTexture name="DonkeyRIGHT SPAM0009" x="4573" y="0" width="899" height="963"/>
+	<SubTexture name="DonkeyRIGHT SPAM0010" x="4573" y="0" width="899" height="963"/>
+	<SubTexture name="DonkeyRIGHT SPAM0011" x="4573" y="0" width="899" height="963"/>
+	<SubTexture name="DonkeyRIGHT SPAM0012" x="4573" y="0" width="899" height="963"/>
+	<SubTexture name="DonkeyRIGHT SPAM0013" x="4573" y="0" width="899" height="963"/>
+	<SubTexture name="DonkeyRIGHT SPAM0014" x="4573" y="0" width="899" height="963"/>
+	<SubTexture name="DonkeyUP SPAM0000" x="5482" y="0" width="921" height="1044"/>
+	<SubTexture name="DonkeyUP SPAM0001" x="5482" y="0" width="921" height="1044"/>
+	<SubTexture name="DonkeyUP SPAM0002" x="6413" y="0" width="921" height="963" frameX="0" frameY="-81" frameWidth="921" frameHeight="1044"/>
+	<SubTexture name="DonkeyUP SPAM0003" x="6413" y="0" width="921" height="963" frameX="0" frameY="-81" frameWidth="921" frameHeight="1044"/>
+	<SubTexture name="DonkeyUP SPAM0004" x="6413" y="0" width="921" height="963" frameX="0" frameY="-81" frameWidth="921" frameHeight="1044"/>
+	<SubTexture name="DonkeyUP SPAM0005" x="6413" y="0" width="921" height="963" frameX="0" frameY="-81" frameWidth="921" frameHeight="1044"/>
+	<SubTexture name="DonkeyUP SPAM0006" x="6413" y="0" width="921" height="963" frameX="0" frameY="-81" frameWidth="921" frameHeight="1044"/>
+	<SubTexture name="DonkeyUP SPAM0007" x="6413" y="0" width="921" height="963" frameX="0" frameY="-81" frameWidth="921" frameHeight="1044"/>
+	<SubTexture name="DonkeyUP SPAM0008" x="6413" y="0" width="921" height="963" frameX="0" frameY="-81" frameWidth="921" frameHeight="1044"/>
+	<SubTexture name="DonkeyUP SPAM0009" x="6413" y="0" width="921" height="963" frameX="0" frameY="-81" frameWidth="921" frameHeight="1044"/>
+	<SubTexture name="DonkeyUP SPAM0010" x="6413" y="0" width="921" height="963" frameX="0" frameY="-81" frameWidth="921" frameHeight="1044"/>
+	<SubTexture name="DonkeyUP SPAM0011" x="6413" y="0" width="921" height="963" frameX="0" frameY="-81" frameWidth="921" frameHeight="1044"/>
+	<SubTexture name="DonkeyUP SPAM0012" x="6413" y="0" width="921" height="963" frameX="0" frameY="-81" frameWidth="921" frameHeight="1044"/>
+	<SubTexture name="DonkeyUP SPAM0013" x="6413" y="0" width="921" height="963" frameX="0" frameY="-81" frameWidth="921" frameHeight="1044"/>
+	<SubTexture name="DonkeyUP SPAM0014" x="6413" y="0" width="921" height="963" frameX="0" frameY="-81" frameWidth="921" frameHeight="1044"/>
+	<SubTexture name="ShrekDOWN SPAM0000" x="7344" y="0" width="724" height="782" frameX="0" frameY="-32" frameWidth="724" frameHeight="814"/>
+	<SubTexture name="ShrekDOWN SPAM0001" x="0" y="1054" width="724" height="790" frameX="0" frameY="-24" frameWidth="724" frameHeight="814"/>
+	<SubTexture name="ShrekDOWN SPAM0002" x="734" y="1054" width="724" height="796" frameX="0" frameY="-18" frameWidth="724" frameHeight="814"/>
+	<SubTexture name="ShrekDOWN SPAM0003" x="1468" y="1054" width="724" height="803" frameX="0" frameY="-11" frameWidth="724" frameHeight="814"/>
+	<SubTexture name="ShrekDOWN SPAM0004" x="2202" y="1054" width="724" height="814"/>
+	<SubTexture name="ShrekDOWN SPAM0005" x="2936" y="1054" width="724" height="810" frameX="0" frameY="-4" frameWidth="724" frameHeight="814"/>
+	<SubTexture name="ShrekDOWN SPAM0006" x="3670" y="1054" width="724" height="804" frameX="0" frameY="-10" frameWidth="724" frameHeight="814"/>
+	<SubTexture name="ShrekDOWN SPAM0007" x="3670" y="1054" width="724" height="804" frameX="0" frameY="-10" frameWidth="724" frameHeight="814"/>
+	<SubTexture name="ShrekDOWN SPAM0008" x="3670" y="1054" width="724" height="804" frameX="0" frameY="-10" frameWidth="724" frameHeight="814"/>
+	<SubTexture name="ShrekDOWN SPAM0009" x="3670" y="1054" width="724" height="804" frameX="0" frameY="-10" frameWidth="724" frameHeight="814"/>
+	<SubTexture name="ShrekDOWN SPAM0010" x="3670" y="1054" width="724" height="804" frameX="0" frameY="-10" frameWidth="724" frameHeight="814"/>
+	<SubTexture name="ShrekDOWN SPAM0011" x="3670" y="1054" width="724" height="804" frameX="0" frameY="-10" frameWidth="724" frameHeight="814"/>
+	<SubTexture name="ShrekDOWN SPAM0012" x="3670" y="1054" width="724" height="804" frameX="0" frameY="-10" frameWidth="724" frameHeight="814"/>
+	<SubTexture name="ShrekDOWN SPAM0013" x="3670" y="1054" width="724" height="804" frameX="0" frameY="-10" frameWidth="724" frameHeight="814"/>
+	<SubTexture name="ShrekDOWN SPAM0014" x="3670" y="1054" width="724" height="804" frameX="0" frameY="-10" frameWidth="724" frameHeight="814"/>
+	<SubTexture name="ShrekIDLE SPAM0000" x="4404" y="1054" width="862" height="889" frameX="-69" frameY="-124" frameWidth="997" frameHeight="1028"/>
+	<SubTexture name="ShrekIDLE SPAM0001" x="4404" y="1054" width="862" height="889" frameX="-69" frameY="-124" frameWidth="997" frameHeight="1028"/>
+	<SubTexture name="ShrekIDLE SPAM0002" x="5276" y="1054" width="930" height="926" frameX="-15" frameY="-94" frameWidth="997" frameHeight="1028"/>
+	<SubTexture name="ShrekIDLE SPAM0003" x="6216" y="1054" width="961" height="957" frameX="0" frameY="-69" frameWidth="997" frameHeight="1028"/>
+	<SubTexture name="ShrekIDLE SPAM0004" x="7187" y="1054" width="946" height="1000" frameX="-39" frameY="-28" frameWidth="997" frameHeight="1028"/>
+	<SubTexture name="ShrekIDLE SPAM0005" x="0" y="2064" width="928" height="1023" frameX="-69" frameY="0" frameWidth="997" frameHeight="1028"/>
+	<SubTexture name="ShrekIDLE SPAM0006" x="0" y="2064" width="928" height="1023" frameX="-69" frameY="0" frameWidth="997" frameHeight="1028"/>
+	<SubTexture name="ShrekIDLE SPAM0007" x="938" y="2064" width="914" height="999" frameX="-69" frameY="-24" frameWidth="997" frameHeight="1028"/>
+	<SubTexture name="ShrekIDLE SPAM0008" x="1862" y="2064" width="912" height="972" frameX="-69" frameY="-51" frameWidth="997" frameHeight="1028"/>
+	<SubTexture name="ShrekIDLE SPAM0009" x="1862" y="2064" width="912" height="972" frameX="-69" frameY="-51" frameWidth="997" frameHeight="1028"/>
+	<SubTexture name="ShrekIDLE SPAM0010" x="1862" y="2064" width="912" height="972" frameX="-69" frameY="-51" frameWidth="997" frameHeight="1028"/>
+	<SubTexture name="ShrekIDLE SPAM0011" x="1862" y="2064" width="912" height="972" frameX="-69" frameY="-51" frameWidth="997" frameHeight="1028"/>
+	<SubTexture name="ShrekIDLE SPAM0012" x="1862" y="2064" width="912" height="972" frameX="-69" frameY="-51" frameWidth="997" frameHeight="1028"/>
+	<SubTexture name="ShrekIDLE SPAM0013" x="1862" y="2064" width="912" height="972" frameX="-69" frameY="-51" frameWidth="997" frameHeight="1028"/>
+	<SubTexture name="ShrekIDLE SPAM0014" x="1862" y="2064" width="912" height="972" frameX="-69" frameY="-51" frameWidth="997" frameHeight="1028"/>
+	<SubTexture name="ShrekIDLE dumb0000" x="6344" y="4233" width="912" height="972"/>
+	<SubTexture name="ShrekIDLE dumb0001" x="6344" y="4233" width="912" height="972"/>
+	<SubTexture name="ShrekIDLE dumb0002" x="6344" y="4233" width="912" height="972"/>
+	<SubTexture name="ShrekIDLE dumb0003" x="6344" y="4233" width="912" height="972"/>
+	<SubTexture name="ShrekIDLE dumb0004" x="6344" y="4233" width="912" height="972"/>
+	<SubTexture name="ShrekIDLE dumb0005" x="6344" y="4233" width="912" height="972"/>
+	<SubTexture name="ShrekIDLE dumb0006" x="6344" y="4233" width="912" height="972"/>
+	<SubTexture name="ShrekIDLE smile0000" x="7266" y="4233" width="912" height="972"/>
+	<SubTexture name="ShrekIDLE smile0001" x="7266" y="4233" width="912" height="972"/>
+	<SubTexture name="ShrekIDLE smile0002" x="7266" y="4233" width="912" height="972"/>
+	<SubTexture name="ShrekIDLE smile0003" x="7266" y="4233" width="912" height="972"/>
+	<SubTexture name="ShrekIDLE smile0004" x="7266" y="4233" width="912" height="972"/>
+	<SubTexture name="ShrekIDLE smile0005" x="7266" y="4233" width="912" height="972"/>
+	<SubTexture name="ShrekIDLE smile0006" x="7266" y="4233" width="912" height="972"/>
+	<SubTexture name="ShrekLEFT SPAM0000" x="2784" y="2064" width="910" height="990" frameX="0" frameY="0" frameWidth="914" frameHeight="990"/>
+	<SubTexture name="ShrekLEFT SPAM0001" x="3704" y="2064" width="871" height="990" frameX="-40" frameY="0" frameWidth="914" frameHeight="990"/>
+	<SubTexture name="ShrekLEFT SPAM0002" x="4585" y="2064" width="841" height="990" frameX="-72" frameY="0" frameWidth="914" frameHeight="990"/>
+	<SubTexture name="ShrekLEFT SPAM0003" x="5436" y="2064" width="773" height="990" frameX="-141" frameY="0" frameWidth="914" frameHeight="990"/>
+	<SubTexture name="ShrekLEFT SPAM0004" x="6219" y="2064" width="752" height="990" frameX="-162" frameY="0" frameWidth="914" frameHeight="990"/>
+	<SubTexture name="ShrekLEFT SPAM0005" x="6981" y="2064" width="757" height="990" frameX="-156" frameY="0" frameWidth="914" frameHeight="990"/>
+	<SubTexture name="ShrekLEFT SPAM0006" x="0" y="3097" width="768" height="990" frameX="-145" frameY="0" frameWidth="914" frameHeight="990"/>
+	<SubTexture name="ShrekLEFT SPAM0007" x="0" y="3097" width="768" height="990" frameX="-145" frameY="0" frameWidth="914" frameHeight="990"/>
+	<SubTexture name="ShrekLEFT SPAM0008" x="0" y="3097" width="768" height="990" frameX="-145" frameY="0" frameWidth="914" frameHeight="990"/>
+	<SubTexture name="ShrekLEFT SPAM0009" x="0" y="3097" width="768" height="990" frameX="-145" frameY="0" frameWidth="914" frameHeight="990"/>
+	<SubTexture name="ShrekLEFT SPAM0010" x="0" y="3097" width="768" height="990" frameX="-145" frameY="0" frameWidth="914" frameHeight="990"/>
+	<SubTexture name="ShrekLEFT SPAM0011" x="0" y="3097" width="768" height="990" frameX="-145" frameY="0" frameWidth="914" frameHeight="990"/>
+	<SubTexture name="ShrekLEFT SPAM0012" x="0" y="3097" width="768" height="990" frameX="-145" frameY="0" frameWidth="914" frameHeight="990"/>
+	<SubTexture name="ShrekLEFT SPAM0013" x="0" y="3097" width="768" height="990" frameX="-145" frameY="0" frameWidth="914" frameHeight="990"/>
+	<SubTexture name="ShrekLEFT SPAM0014" x="0" y="3097" width="768" height="990" frameX="-145" frameY="0" frameWidth="914" frameHeight="990"/>
+	<SubTexture name="ShrekRIGHT SPAM0000" x="778" y="3097" width="900" height="969"/>
+	<SubTexture name="ShrekRIGHT SPAM0001" x="1688" y="3097" width="880" height="967" frameX="0" frameY="-2" frameWidth="900" frameHeight="969"/>
+	<SubTexture name="ShrekRIGHT SPAM0002" x="2578" y="3097" width="859" height="969" frameX="0" frameY="0" frameWidth="900" frameHeight="969"/>
+	<SubTexture name="ShrekRIGHT SPAM0003" x="3447" y="3097" width="835" height="968" frameX="0" frameY="-1" frameWidth="900" frameHeight="969"/>
+	<SubTexture name="ShrekRIGHT SPAM0004" x="4292" y="3097" width="809" height="967" frameX="0" frameY="-2" frameWidth="900" frameHeight="969"/>
+	<SubTexture name="ShrekRIGHT SPAM0005" x="5111" y="3097" width="779" height="967" frameX="0" frameY="-2" frameWidth="900" frameHeight="969"/>
+	<SubTexture name="ShrekRIGHT SPAM0006" x="5900" y="3097" width="803" height="967" frameX="0" frameY="-2" frameWidth="900" frameHeight="969"/>
+	<SubTexture name="ShrekRIGHT SPAM0007" x="5900" y="3097" width="803" height="967" frameX="0" frameY="-2" frameWidth="900" frameHeight="969"/>
+	<SubTexture name="ShrekRIGHT SPAM0008" x="5900" y="3097" width="803" height="967" frameX="0" frameY="-2" frameWidth="900" frameHeight="969"/>
+	<SubTexture name="ShrekRIGHT SPAM0009" x="5900" y="3097" width="803" height="967" frameX="0" frameY="-2" frameWidth="900" frameHeight="969"/>
+	<SubTexture name="ShrekRIGHT SPAM0010" x="5900" y="3097" width="803" height="967" frameX="0" frameY="-2" frameWidth="900" frameHeight="969"/>
+	<SubTexture name="ShrekRIGHT SPAM0011" x="5900" y="3097" width="803" height="967" frameX="0" frameY="-2" frameWidth="900" frameHeight="969"/>
+	<SubTexture name="ShrekRIGHT SPAM0012" x="5900" y="3097" width="803" height="967" frameX="0" frameY="-2" frameWidth="900" frameHeight="969"/>
+	<SubTexture name="ShrekRIGHT SPAM0013" x="5900" y="3097" width="803" height="967" frameX="0" frameY="-2" frameWidth="900" frameHeight="969"/>
+	<SubTexture name="ShrekRIGHT SPAM0014" x="5900" y="3097" width="803" height="967" frameX="0" frameY="-2" frameWidth="900" frameHeight="969"/>
+	<SubTexture name="ShrekUP SPAM0000" x="6713" y="3097" width="1094" height="1126" frameX="0" frameY="0" frameWidth="1154" frameHeight="1126"/>
+	<SubTexture name="ShrekUP SPAM0001" x="0" y="4233" width="1082" height="1092" frameX="-19" frameY="-34" frameWidth="1154" frameHeight="1126"/>
+	<SubTexture name="ShrekUP SPAM0002" x="1092" y="4233" width="1063" height="1079" frameX="-42" frameY="-47" frameWidth="1154" frameHeight="1126"/>
+	<SubTexture name="ShrekUP SPAM0003" x="2165" y="4233" width="1050" height="1046" frameX="-68" frameY="-80" frameWidth="1154" frameHeight="1126"/>
+	<SubTexture name="ShrekUP SPAM0004" x="3225" y="4233" width="1040" height="1012" frameX="-100" frameY="-114" frameWidth="1154" frameHeight="1126"/>
+	<SubTexture name="ShrekUP SPAM0005" x="4275" y="4233" width="1028" height="1001" frameX="-126" frameY="-125" frameWidth="1154" frameHeight="1126"/>
+	<SubTexture name="ShrekUP SPAM0006" x="5313" y="4233" width="1021" height="1029" frameX="-107" frameY="-97" frameWidth="1154" frameHeight="1126"/>
+	<SubTexture name="ShrekUP SPAM0007" x="5313" y="4233" width="1021" height="1029" frameX="-107" frameY="-97" frameWidth="1154" frameHeight="1126"/>
+	<SubTexture name="ShrekUP SPAM0008" x="5313" y="4233" width="1021" height="1029" frameX="-107" frameY="-97" frameWidth="1154" frameHeight="1126"/>
+	<SubTexture name="ShrekUP SPAM0009" x="5313" y="4233" width="1021" height="1029" frameX="-107" frameY="-97" frameWidth="1154" frameHeight="1126"/>
+	<SubTexture name="ShrekUP SPAM0010" x="5313" y="4233" width="1021" height="1029" frameX="-107" frameY="-97" frameWidth="1154" frameHeight="1126"/>
+	<SubTexture name="ShrekUP SPAM0011" x="5313" y="4233" width="1021" height="1029" frameX="-107" frameY="-97" frameWidth="1154" frameHeight="1126"/>
+	<SubTexture name="ShrekUP SPAM0012" x="5313" y="4233" width="1021" height="1029" frameX="-107" frameY="-97" frameWidth="1154" frameHeight="1126"/>
+	<SubTexture name="ShrekUP SPAM0013" x="5313" y="4233" width="1021" height="1029" frameX="-107" frameY="-97" frameWidth="1154" frameHeight="1126"/>
+	<SubTexture name="ShrekUP SPAM0014" x="5313" y="4233" width="1021" height="1029" frameX="-107" frameY="-97" frameWidth="1154" frameHeight="1126"/>
+</TextureAtlas>

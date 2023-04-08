@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				497,
+				-156
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				46,
+				-344
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				10,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				20,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				90,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sahs",
+	"position": [
+		0,
+		30
+	],
+	"healthicon": "sasha-icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		174,
+		131,
+		115
+	],
+	"camera_position": [
+		-360,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				332,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 19,
+			"name": "trollleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				310,
+				20
+			],
+			"anim": "singDOWN",
+			"fps": 21,
+			"name": "trolldown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				260,
+				370
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "trollup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				120
+			],
+			"anim": "singRIGHT",
+			"fps": 23,
+			"name": "trollright",
+			"indices": []
+		},
+		{
+			"offsets": [
+				216,
+				-40
+			],
+			"indices": [],
+			"fps": 70,
+			"anim": "idle",
+			"loop": true,
+			"name": "trollidle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/real-scout",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "real-scout-icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		102,
+		206
+	],
+	"camera_position": [
+		-270,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

@@ -1,0 +1,51 @@
+{
+	"songs": [
+		[
+			"Bonk for murders",
+			"mouse-p1",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"jerry time",
+			"mouse-p2",
+			[
+				140,
+				140,
+				140
+			]
+		],
+		[
+			"haunted house",
+			"mouse-p3",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"category": 2,
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "basement",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Welcome to his basement",
+	"weekName": "weekJerryScout",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week7",
+	"startUnlocked": true
+}

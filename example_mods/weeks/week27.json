@@ -1,0 +1,42 @@
+{
+	"songs": [
+		[
+			"discord calling",
+			"mad-shrek-icon",
+			[
+				175,
+				0,
+				255
+			]
+		],
+		[
+			"meme mania scout mix",
+			"triple-icon",
+			[
+				6,
+				0,
+				255
+			]
+		]
+	],
+	"category": 2,
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "week9",
+	"startUnlocked": true
+}

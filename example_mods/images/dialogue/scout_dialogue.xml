@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="scout_dialogue.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="talking0000" x="0" y="0" width="270" height="299" frameX="0" frameY="-87" frameWidth="272" frameHeight="391"/>
+	<SubTexture name="talking0001" x="270" y="0" width="271" height="345" frameX="-1" frameY="-46" frameWidth="272" frameHeight="391"/>
+	<SubTexture name="talking0002" x="541" y="0" width="271" height="391" frameX="-1" frameY="0" frameWidth="272" frameHeight="391"/>
+	<SubTexture name="talking0003" x="270" y="0" width="271" height="345" frameX="-1" frameY="-46" frameWidth="272" frameHeight="391"/>
+</TextureAtlas>

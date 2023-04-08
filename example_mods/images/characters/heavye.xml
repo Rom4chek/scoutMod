@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="heavye.png">
+<SubTexture name="heavye e0000" x="0" y="0" width="750" height="786" frameX="0" frameY="0" frameWidth="750" frameHeight="786" />
+<SubTexture name="heavye jah0000" x="750" y="0" width="750" height="786" frameX="0" frameY="0" frameWidth="750" frameHeight="786" />
+<SubTexture name="heavye jah0001" x="0" y="0" width="750" height="786" frameX="0" frameY="0" frameWidth="750" frameHeight="786" />
+</TextureAtlas>

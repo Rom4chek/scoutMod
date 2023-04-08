@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				135,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				83,
+				-84
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				99,
+				25
+			],
+			"loop": false,
+			"fps": 26,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-42,
+				-53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/blu-sniper",
+	"position": [
+		100,
+		0
+	],
+	"healthicon": "sniper",
+	"flip_x": false,
+	"healthbar_colors": [
+		102,
+		51,
+		0
+	],
+	"camera_position": [
+		-50,
+		-50
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1.1
+}

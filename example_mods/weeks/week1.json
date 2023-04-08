@@ -1,0 +1,51 @@
+{
+	"storyName": "funny rap battle with scout.png",
+	"difficulties": "Hard",
+	"weekBackground": "stage",
+	"hideFreeplay": false,
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"category": 0,
+	"songs": [
+		[
+			"Bonk",
+			"scout",
+			[
+				0,
+				140,
+				255
+			]
+		],
+		[
+			"Eat a salad",
+			"scout",
+			[
+				0,
+				120,
+				255
+			]
+		],
+		[
+			"Knucklehead",
+			"scoutThirdSong",
+			[
+				0,
+				40,
+				235
+			]
+		]
+	],
+	"weekCharacters": [
+		"menu-scout-v2",
+		"bf",
+		"gf"
+	],
+	"weekName": "weekScout",
+	"hiddenUntilUnlocked": false
+}

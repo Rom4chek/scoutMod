@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mad-blu-scout.png"><SubTexture name="mad-blu-scout idle0000" x="0" y="0" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="mad-blu-scout idle0001" x="754" y="0" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="mad-blu-scout idle0002" x="1508" y="0" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="mad-blu-scout idle0003" x="2262" y="0" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="mad-blu-scout idle0004" x="3016" y="0" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="mad-blu-scout idle0005" x="0" y="790" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="mad-blu-scout idle0006" x="754" y="790" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="mad-blu-scout idle0007" x="1508" y="790" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="mad-blu-scout idle0008" x="2262" y="790" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="mad-blu-scout idle0009" x="3016" y="790" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="mad-blu-scout idle0010" x="0" y="1580" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="mad-blu-scout idle0011" x="754" y="1580" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="mad-blu-scout idle0012" x="1508" y="1580" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="mad-blu-scout left0000" x="2262" y="1580" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="mad-blu-scout left0001" x="3016" y="1580" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="mad-blu-scout left0002" x="0" y="2370" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="mad-blu-scout down0000" x="754" y="2370" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="mad-blu-scout down0001" x="1508" y="2370" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="mad-blu-scout down0002" x="2262" y="2370" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="mad-blu-scout up0000" x="3016" y="2370" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="mad-blu-scout up0001" x="0" y="3160" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="mad-blu-scout up0002" x="754" y="3160" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="mad-blu-scout up0003" x="1508" y="3160" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="mad-blu-scout right0000" x="2262" y="3160" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="mad-blu-scout right0001" x="3016" y="3160" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+<SubTexture name="mad-blu-scout right0002" x="0" y="3950" width="754" height="790" frameX="0" frameY="0" frameWidth="754" frameHeight="790" />
+</TextureAtlas>

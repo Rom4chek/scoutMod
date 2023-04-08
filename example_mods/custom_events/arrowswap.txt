@@ -1,0 +1,4 @@
+Swaps the arrows and swaps them back.
+
+Event 1: 'b' to swap the arrows, 'a' to swap them back.
+Event 2: Duration of said swap.

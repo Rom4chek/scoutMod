@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "scoutexeidle"
+		},
+		{
+			"offsets": [
+				266,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "scoutexeleft"
+		},
+		{
+			"offsets": [
+				40,
+				-63
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "scoutexedown"
+		},
+		{
+			"offsets": [
+				100,
+				100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "scoutexeup"
+		},
+		{
+			"offsets": [
+				188,
+				-9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "scoutexeright"
+		},
+		{
+			"offsets": [
+				50,
+				-60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "scoutexelaughdown"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/scout-exe",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "scout-exe-icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		255
+	],
+	"camera_position": [
+		-180,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

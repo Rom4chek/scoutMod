@@ -1,0 +1,51 @@
+{
+	"storyName": "FUnny rap battle with scout.png but b side!!!",
+	"difficulties": "hard",
+	"weekBackground": "stage",
+	"hideFreeplay": false,
+	"weekBefore": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"category": 0,
+	"songs": [
+		[
+			"Bonk bside",
+			"bsidescout-icon",
+			[
+				255,
+				113,
+				253
+			]
+		],
+		[
+			"eat a salad b side",
+			"bsidescout-icon",
+			[
+				255,
+				113,
+				213
+			]
+		],
+		[
+			"knucklehead bside",
+			"bsidescout-icon",
+			[
+				255,
+				53,
+				135
+			]
+		]
+	],
+	"weekCharacters": [
+		"menu-scout-v2",
+		"bf",
+		"gf"
+	],
+	"weekName": "weekBscout",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,119 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-60,
+				130
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				2,
+				6
+			],
+			"name": "Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				130
+			],
+			"anim": "danceRight",
+			"fps": 12,
+			"name": "Idle",
+			"indices": [
+				15,
+				17,
+				19
+			]
+		},
+		{
+			"offsets": [
+				-70,
+				112
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-42,
+				243
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-56,
+				68
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "Summon",
+			"indices": [],
+			"name": "Tall summon"
+		},
+		{
+			"offsets": [
+				-36,
+				70
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "Result",
+			"indices": [],
+			"name": "Tall Fuck"
+		},
+		{
+			"offsets": [
+				31,
+				80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-68,
+				47
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Left"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/TallNormal",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tall",
+	"flip_x": false,
+	"healthbar_colors": [
+		153,
+		51,
+		204
+	],
+	"camera_position": [
+		170,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

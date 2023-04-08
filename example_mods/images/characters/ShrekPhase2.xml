@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ShrekPhase2.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DonkeyDOWN0000" x="0" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyDOWN0001" x="0" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyDOWN0002" x="931" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyDOWN0003" x="931" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyDOWN0004" x="931" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyDOWN0005" x="931" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyDOWN0006" x="931" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyDOWN0007" x="931" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyDOWN0008" x="931" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyDOWN0009" x="931" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyDOWN0010" x="931" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyDOWN0011" x="931" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyDOWN0012" x="931" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyDOWN0013" x="931" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyDOWN0014" x="931" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyLEFT0000" x="1862" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyLEFT0001" x="1862" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyLEFT0002" x="2793" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyLEFT0003" x="2793" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyLEFT0004" x="2793" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyLEFT0005" x="2793" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyLEFT0006" x="2793" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyLEFT0007" x="2793" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyLEFT0008" x="2793" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyLEFT0009" x="2793" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyLEFT0010" x="2793" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyLEFT0011" x="2793" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyLEFT0012" x="2793" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyLEFT0013" x="2793" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyLEFT0014" x="2793" y="0" width="921" height="963"/>
+	<SubTexture name="DonkeyRIGHT0000" x="3724" y="0" width="839" height="963" frameX="-60" frameY="0" frameWidth="899" frameHeight="963"/>
+	<SubTexture name="DonkeyRIGHT0001" x="3724" y="0" width="839" height="963" frameX="-60" frameY="0" frameWidth="899" frameHeight="963"/>
+	<SubTexture name="DonkeyRIGHT0002" x="4573" y="0" width="899" height="963"/>
+	<SubTexture name="DonkeyRIGHT0003" x="4573" y="0" width="899" height="963"/>
+	<SubTexture name="DonkeyRIGHT0004" x="4573" y="0" width="899" height="963"/>
+	<SubTexture name="DonkeyRIGHT0005" x="4573" y="0" width="899" height="963"/>
+	<SubTexture name="DonkeyRIGHT0006" x="4573" y="0" width="899" height="963"/>
+	<SubTexture name="DonkeyRIGHT0007" x="4573" y="0" width="899" height="963"/>
+	<SubTexture name="DonkeyRIGHT0008" x="4573" y="0" width="899" height="963"/>
+	<SubTexture name="DonkeyRIGHT0009" x="4573" y="0" width="899" height="963"/>
+	<SubTexture name="DonkeyRIGHT0010" x="4573" y="0" width="899" height="963"/>
+	<SubTexture name="DonkeyRIGHT0011" x="4573" y="0" width="899" height="963"/>
+	<SubTexture name="DonkeyRIGHT0012" x="4573" y="0" width="899" height="963"/>
+	<SubTexture name="DonkeyRIGHT0013" x="4573" y="0" width="899" height="963"/>
+	<SubTexture name="DonkeyRIGHT0014" x="4573" y="0" width="899" height="963"/>
+	<SubTexture name="DonkeyUP0000" x="5482" y="0" width="921" height="1044"/>
+	<SubTexture name="DonkeyUP0001" x="5482" y="0" width="921" height="1044"/>
+	<SubTexture name="DonkeyUP0002" x="6413" y="0" width="921" height="963" frameX="0" frameY="-81" frameWidth="921" frameHeight="1044"/>
+	<SubTexture name="DonkeyUP0003" x="6413" y="0" width="921" height="963" frameX="0" frameY="-81" frameWidth="921" frameHeight="1044"/>
+	<SubTexture name="DonkeyUP0004" x="6413" y="0" width="921" height="963" frameX="0" frameY="-81" frameWidth="921" frameHeight="1044"/>
+	<SubTexture name="DonkeyUP0005" x="6413" y="0" width="921" height="963" frameX="0" frameY="-81" frameWidth="921" frameHeight="1044"/>
+	<SubTexture name="DonkeyUP0006" x="6413" y="0" width="921" height="963" frameX="0" frameY="-81" frameWidth="921" frameHeight="1044"/>
+	<SubTexture name="DonkeyUP0007" x="6413" y="0" width="921" height="963" frameX="0" frameY="-81" frameWidth="921" frameHeight="1044"/>
+	<SubTexture name="DonkeyUP0008" x="6413" y="0" width="921" height="963" frameX="0" frameY="-81" frameWidth="921" frameHeight="1044"/>
+	<SubTexture name="DonkeyUP0009" x="6413" y="0" width="921" height="963" frameX="0" frameY="-81" frameWidth="921" frameHeight="1044"/>
+	<SubTexture name="DonkeyUP0010" x="6413" y="0" width="921" height="963" frameX="0" frameY="-81" frameWidth="921" frameHeight="1044"/>
+	<SubTexture name="DonkeyUP0011" x="6413" y="0" width="921" height="963" frameX="0" frameY="-81" frameWidth="921" frameHeight="1044"/>
+	<SubTexture name="DonkeyUP0012" x="6413" y="0" width="921" height="963" frameX="0" frameY="-81" frameWidth="921" frameHeight="1044"/>
+	<SubTexture name="DonkeyUP0013" x="6413" y="0" width="921" height="963" frameX="0" frameY="-81" frameWidth="921" frameHeight="1044"/>
+	<SubTexture name="DonkeyUP0014" x="6413" y="0" width="921" height="963" frameX="0" frameY="-81" frameWidth="921" frameHeight="1044"/>
+	<SubTexture name="ShrekDOWN0000" x="7344" y="0" width="724" height="782" frameX="0" frameY="-32" frameWidth="724" frameHeight="814"/>
+	<SubTexture name="ShrekDOWN0001" x="0" y="1054" width="724" height="790" frameX="0" frameY="-24" frameWidth="724" frameHeight="814"/>
+	<SubTexture name="ShrekDOWN0002" x="734" y="1054" width="724" height="796" frameX="0" frameY="-18" frameWidth="724" frameHeight="814"/>
+	<SubTexture name="ShrekDOWN0003" x="1468" y="1054" width="724" height="803" frameX="0" frameY="-11" frameWidth="724" frameHeight="814"/>
+	<SubTexture name="ShrekDOWN0004" x="2202" y="1054" width="724" height="814"/>
+	<SubTexture name="ShrekDOWN0005" x="2936" y="1054" width="724" height="810" frameX="0" frameY="-4" frameWidth="724" frameHeight="814"/>
+	<SubTexture name="ShrekDOWN0006" x="3670" y="1054" width="724" height="804" frameX="0" frameY="-10" frameWidth="724" frameHeight="814"/>
+	<SubTexture name="ShrekDOWN0007" x="3670" y="1054" width="724" height="804" frameX="0" frameY="-10" frameWidth="724" frameHeight="814"/>
+	<SubTexture name="ShrekDOWN0008" x="3670" y="1054" width="724" height="804" frameX="0" frameY="-10" frameWidth="724" frameHeight="814"/>
+	<SubTexture name="ShrekDOWN0009" x="3670" y="1054" width="724" height="804" frameX="0" frameY="-10" frameWidth="724" frameHeight="814"/>
+	<SubTexture name="ShrekDOWN0010" x="3670" y="1054" width="724" height="804" frameX="0" frameY="-10" frameWidth="724" frameHeight="814"/>
+	<SubTexture name="ShrekDOWN0011" x="3670" y="1054" width="724" height="804" frameX="0" frameY="-10" frameWidth="724" frameHeight="814"/>
+	<SubTexture name="ShrekDOWN0012" x="3670" y="1054" width="724" height="804" frameX="0" frameY="-10" frameWidth="724" frameHeight="814"/>
+	<SubTexture name="ShrekDOWN0013" x="3670" y="1054" width="724" height="804" frameX="0" frameY="-10" frameWidth="724" frameHeight="814"/>
+	<SubTexture name="ShrekDOWN0014" x="3670" y="1054" width="724" height="804" frameX="0" frameY="-10" frameWidth="724" frameHeight="814"/>
+	<SubTexture name="ShrekHello0000" x="4404" y="1054" width="912" height="1222" frameX="-171" frameY="0" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0001" x="5326" y="1054" width="912" height="1222" frameX="-171" frameY="0" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0002" x="5326" y="1054" width="912" height="1222" frameX="-171" frameY="0" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0003" x="5326" y="1054" width="912" height="1222" frameX="-171" frameY="0" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0004" x="5326" y="1054" width="912" height="1222" frameX="-171" frameY="0" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0005" x="5326" y="1054" width="912" height="1222" frameX="-171" frameY="0" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0006" x="6248" y="1054" width="912" height="1222" frameX="-171" frameY="0" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0007" x="6248" y="1054" width="912" height="1222" frameX="-171" frameY="0" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0008" x="6248" y="1054" width="912" height="1222" frameX="-171" frameY="0" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0009" x="6248" y="1054" width="912" height="1222" frameX="-171" frameY="0" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0010" x="7170" y="1054" width="912" height="1222" frameX="-171" frameY="0" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0011" x="7170" y="1054" width="912" height="1222" frameX="-171" frameY="0" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0012" x="7170" y="1054" width="912" height="1222" frameX="-171" frameY="0" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0013" x="0" y="2286" width="912" height="1222" frameX="-171" frameY="0" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0014" x="0" y="2286" width="912" height="1222" frameX="-171" frameY="0" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0015" x="0" y="2286" width="912" height="1222" frameX="-171" frameY="0" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0016" x="0" y="2286" width="912" height="1222" frameX="-171" frameY="0" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0017" x="922" y="2286" width="912" height="1222" frameX="-171" frameY="0" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0018" x="1844" y="2286" width="924" height="1127" frameX="-159" frameY="-95" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0019" x="2778" y="2286" width="1083" height="956" frameX="0" frameY="-266" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0020" x="3871" y="2286" width="973" height="1080" frameX="-110" frameY="-142" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0021" x="3871" y="2286" width="973" height="1080" frameX="-110" frameY="-142" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0022" x="3871" y="2286" width="973" height="1080" frameX="-110" frameY="-142" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0023" x="3871" y="2286" width="973" height="1080" frameX="-110" frameY="-142" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0024" x="3871" y="2286" width="973" height="1080" frameX="-110" frameY="-142" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0025" x="3871" y="2286" width="973" height="1080" frameX="-110" frameY="-142" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0026" x="3871" y="2286" width="973" height="1080" frameX="-110" frameY="-142" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0027" x="4854" y="2286" width="973" height="1080" frameX="-110" frameY="-142" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0028" x="4854" y="2286" width="973" height="1080" frameX="-110" frameY="-142" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0029" x="4854" y="2286" width="973" height="1080" frameX="-110" frameY="-142" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0030" x="4854" y="2286" width="973" height="1080" frameX="-110" frameY="-142" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0031" x="4854" y="2286" width="973" height="1080" frameX="-110" frameY="-142" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0032" x="5837" y="2286" width="973" height="1080" frameX="-110" frameY="-142" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0033" x="5837" y="2286" width="973" height="1080" frameX="-110" frameY="-142" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0034" x="5837" y="2286" width="973" height="1080" frameX="-110" frameY="-142" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0035" x="5837" y="2286" width="973" height="1080" frameX="-110" frameY="-142" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0036" x="5837" y="2286" width="973" height="1080" frameX="-110" frameY="-142" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0037" x="5837" y="2286" width="973" height="1080" frameX="-110" frameY="-142" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0038" x="6820" y="2286" width="973" height="1080" frameX="-110" frameY="-142" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0039" x="6820" y="2286" width="973" height="1080" frameX="-110" frameY="-142" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0040" x="6820" y="2286" width="973" height="1080" frameX="-110" frameY="-142" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0041" x="6820" y="2286" width="973" height="1080" frameX="-110" frameY="-142" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0042" x="6820" y="2286" width="973" height="1080" frameX="-110" frameY="-142" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0043" x="6820" y="2286" width="973" height="1080" frameX="-110" frameY="-142" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0044" x="6820" y="2286" width="973" height="1080" frameX="-110" frameY="-142" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0045" x="6820" y="2286" width="973" height="1080" frameX="-110" frameY="-142" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0046" x="6820" y="2286" width="973" height="1080" frameX="-110" frameY="-142" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0047" x="6820" y="2286" width="973" height="1080" frameX="-110" frameY="-142" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0048" x="6820" y="2286" width="973" height="1080" frameX="-110" frameY="-142" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0049" x="6820" y="2286" width="973" height="1080" frameX="-110" frameY="-142" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekHello0050" x="6820" y="2286" width="973" height="1080" frameX="-110" frameY="-142" frameWidth="1083" frameHeight="1222"/>
+	<SubTexture name="ShrekIDLE0000" x="0" y="3518" width="862" height="889" frameX="-69" frameY="-124" frameWidth="997" frameHeight="1028"/>
+	<SubTexture name="ShrekIDLE0001" x="0" y="3518" width="862" height="889" frameX="-69" frameY="-124" frameWidth="997" frameHeight="1028"/>
+	<SubTexture name="ShrekIDLE0002" x="872" y="3518" width="930" height="926" frameX="-15" frameY="-94" frameWidth="997" frameHeight="1028"/>
+	<SubTexture name="ShrekIDLE0003" x="1812" y="3518" width="961" height="957" frameX="0" frameY="-69" frameWidth="997" frameHeight="1028"/>
+	<SubTexture name="ShrekIDLE0004" x="2783" y="3518" width="946" height="1000" frameX="-39" frameY="-28" frameWidth="997" frameHeight="1028"/>
+	<SubTexture name="ShrekIDLE0005" x="3739" y="3518" width="928" height="1023" frameX="-69" frameY="0" frameWidth="997" frameHeight="1028"/>
+	<SubTexture name="ShrekIDLE0006" x="3739" y="3518" width="928" height="1023" frameX="-69" frameY="0" frameWidth="997" frameHeight="1028"/>
+	<SubTexture name="ShrekIDLE0007" x="4677" y="3518" width="914" height="999" frameX="-69" frameY="-24" frameWidth="997" frameHeight="1028"/>
+	<SubTexture name="ShrekIDLE0008" x="5601" y="3518" width="912" height="972" frameX="-69" frameY="-51" frameWidth="997" frameHeight="1028"/>
+	<SubTexture name="ShrekIDLE0009" x="5601" y="3518" width="912" height="972" frameX="-69" frameY="-51" frameWidth="997" frameHeight="1028"/>
+	<SubTexture name="ShrekIDLE0010" x="5601" y="3518" width="912" height="972" frameX="-69" frameY="-51" frameWidth="997" frameHeight="1028"/>
+	<SubTexture name="ShrekIDLE0011" x="5601" y="3518" width="912" height="972" frameX="-69" frameY="-51" frameWidth="997" frameHeight="1028"/>
+	<SubTexture name="ShrekIDLE0012" x="5601" y="3518" width="912" height="972" frameX="-69" frameY="-51" frameWidth="997" frameHeight="1028"/>
+	<SubTexture name="ShrekIDLE0013" x="5601" y="3518" width="912" height="972" frameX="-69" frameY="-51" frameWidth="997" frameHeight="1028"/>
+	<SubTexture name="ShrekIDLE0014" x="5601" y="3518" width="912" height="972" frameX="-69" frameY="-51" frameWidth="997" frameHeight="1028"/>
+	<SubTexture name="ShrekLEFT0000" x="6523" y="3518" width="910" height="990" frameX="0" frameY="0" frameWidth="914" frameHeight="990"/>
+	<SubTexture name="ShrekLEFT0001" x="0" y="4551" width="871" height="990" frameX="-40" frameY="0" frameWidth="914" frameHeight="990"/>
+	<SubTexture name="ShrekLEFT0002" x="881" y="4551" width="841" height="990" frameX="-72" frameY="0" frameWidth="914" frameHeight="990"/>
+	<SubTexture name="ShrekLEFT0003" x="1732" y="4551" width="773" height="990" frameX="-141" frameY="0" frameWidth="914" frameHeight="990"/>
+	<SubTexture name="ShrekLEFT0004" x="2515" y="4551" width="752" height="990" frameX="-162" frameY="0" frameWidth="914" frameHeight="990"/>
+	<SubTexture name="ShrekLEFT0005" x="3277" y="4551" width="757" height="990" frameX="-156" frameY="0" frameWidth="914" frameHeight="990"/>
+	<SubTexture name="ShrekLEFT0006" x="4044" y="4551" width="768" height="990" frameX="-145" frameY="0" frameWidth="914" frameHeight="990"/>
+	<SubTexture name="ShrekLEFT0007" x="4044" y="4551" width="768" height="990" frameX="-145" frameY="0" frameWidth="914" frameHeight="990"/>
+	<SubTexture name="ShrekLEFT0008" x="4044" y="4551" width="768" height="990" frameX="-145" frameY="0" frameWidth="914" frameHeight="990"/>
+	<SubTexture name="ShrekLEFT0009" x="4044" y="4551" width="768" height="990" frameX="-145" frameY="0" frameWidth="914" frameHeight="990"/>
+	<SubTexture name="ShrekLEFT0010" x="4044" y="4551" width="768" height="990" frameX="-145" frameY="0" frameWidth="914" frameHeight="990"/>
+	<SubTexture name="ShrekLEFT0011" x="4044" y="4551" width="768" height="990" frameX="-145" frameY="0" frameWidth="914" frameHeight="990"/>
+	<SubTexture name="ShrekLEFT0012" x="4044" y="4551" width="768" height="990" frameX="-145" frameY="0" frameWidth="914" frameHeight="990"/>
+	<SubTexture name="ShrekLEFT0013" x="4044" y="4551" width="768" height="990" frameX="-145" frameY="0" frameWidth="914" frameHeight="990"/>
+	<SubTexture name="ShrekLEFT0014" x="4044" y="4551" width="768" height="990" frameX="-145" frameY="0" frameWidth="914" frameHeight="990"/>
+	<SubTexture name="ShrekRIGHT0000" x="4822" y="4551" width="900" height="969"/>
+	<SubTexture name="ShrekRIGHT0001" x="5732" y="4551" width="880" height="967" frameX="0" frameY="-2" frameWidth="900" frameHeight="969"/>
+	<SubTexture name="ShrekRIGHT0002" x="6622" y="4551" width="859" height="969" frameX="0" frameY="0" frameWidth="900" frameHeight="969"/>
+	<SubTexture name="ShrekRIGHT0003" x="0" y="5551" width="835" height="968" frameX="0" frameY="-1" frameWidth="900" frameHeight="969"/>
+	<SubTexture name="ShrekRIGHT0004" x="845" y="5551" width="809" height="967" frameX="0" frameY="-2" frameWidth="900" frameHeight="969"/>
+	<SubTexture name="ShrekRIGHT0005" x="1664" y="5551" width="779" height="967" frameX="0" frameY="-2" frameWidth="900" frameHeight="969"/>
+	<SubTexture name="ShrekRIGHT0006" x="2453" y="5551" width="803" height="967" frameX="0" frameY="-2" frameWidth="900" frameHeight="969"/>
+	<SubTexture name="ShrekRIGHT0007" x="2453" y="5551" width="803" height="967" frameX="0" frameY="-2" frameWidth="900" frameHeight="969"/>
+	<SubTexture name="ShrekRIGHT0008" x="2453" y="5551" width="803" height="967" frameX="0" frameY="-2" frameWidth="900" frameHeight="969"/>
+	<SubTexture name="ShrekRIGHT0009" x="2453" y="5551" width="803" height="967" frameX="0" frameY="-2" frameWidth="900" frameHeight="969"/>
+	<SubTexture name="ShrekRIGHT0010" x="2453" y="5551" width="803" height="967" frameX="0" frameY="-2" frameWidth="900" frameHeight="969"/>
+	<SubTexture name="ShrekRIGHT0011" x="2453" y="5551" width="803" height="967" frameX="0" frameY="-2" frameWidth="900" frameHeight="969"/>
+	<SubTexture name="ShrekRIGHT0012" x="2453" y="5551" width="803" height="967" frameX="0" frameY="-2" frameWidth="900" frameHeight="969"/>
+	<SubTexture name="ShrekRIGHT0013" x="2453" y="5551" width="803" height="967" frameX="0" frameY="-2" frameWidth="900" frameHeight="969"/>
+	<SubTexture name="ShrekRIGHT0014" x="2453" y="5551" width="803" height="967" frameX="0" frameY="-2" frameWidth="900" frameHeight="969"/>
+	<SubTexture name="ShrekUP0000" x="3266" y="5551" width="1094" height="1126" frameX="0" frameY="0" frameWidth="1154" frameHeight="1126"/>
+	<SubTexture name="ShrekUP0001" x="4370" y="5551" width="1082" height="1092" frameX="-19" frameY="-34" frameWidth="1154" frameHeight="1126"/>
+	<SubTexture name="ShrekUP0002" x="5462" y="5551" width="1063" height="1079" frameX="-42" frameY="-47" frameWidth="1154" frameHeight="1126"/>
+	<SubTexture name="ShrekUP0003" x="6535" y="5551" width="1050" height="1046" frameX="-68" frameY="-80" frameWidth="1154" frameHeight="1126"/>
+	<SubTexture name="ShrekUP0004" x="0" y="6687" width="1040" height="1012" frameX="-100" frameY="-114" frameWidth="1154" frameHeight="1126"/>
+	<SubTexture name="ShrekUP0005" x="1050" y="6687" width="1028" height="1001" frameX="-126" frameY="-125" frameWidth="1154" frameHeight="1126"/>
+	<SubTexture name="ShrekUP0006" x="2088" y="6687" width="1021" height="1029" frameX="-107" frameY="-97" frameWidth="1154" frameHeight="1126"/>
+	<SubTexture name="ShrekUP0007" x="2088" y="6687" width="1021" height="1029" frameX="-107" frameY="-97" frameWidth="1154" frameHeight="1126"/>
+	<SubTexture name="ShrekUP0008" x="2088" y="6687" width="1021" height="1029" frameX="-107" frameY="-97" frameWidth="1154" frameHeight="1126"/>
+	<SubTexture name="ShrekUP0009" x="2088" y="6687" width="1021" height="1029" frameX="-107" frameY="-97" frameWidth="1154" frameHeight="1126"/>
+	<SubTexture name="ShrekUP0010" x="2088" y="6687" width="1021" height="1029" frameX="-107" frameY="-97" frameWidth="1154" frameHeight="1126"/>
+	<SubTexture name="ShrekUP0011" x="2088" y="6687" width="1021" height="1029" frameX="-107" frameY="-97" frameWidth="1154" frameHeight="1126"/>
+	<SubTexture name="ShrekUP0012" x="2088" y="6687" width="1021" height="1029" frameX="-107" frameY="-97" frameWidth="1154" frameHeight="1126"/>
+	<SubTexture name="ShrekUP0013" x="2088" y="6687" width="1021" height="1029" frameX="-107" frameY="-97" frameWidth="1154" frameHeight="1126"/>
+	<SubTexture name="ShrekUP0014" x="2088" y="6687" width="1021" height="1029" frameX="-107" frameY="-97" frameWidth="1154" frameHeight="1126"/>
+</TextureAtlas>

@@ -1,0 +1,51 @@
+{
+	"songs": [
+		[
+			"Scout rage",
+			"scoutAngry",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"angry revenge",
+			"scoutangry",
+			[
+				0,
+				113,
+				215
+			]
+		],
+		[
+			"shotgun time",
+			"scoutAngryThird",
+			[
+				120,
+				113,
+				193
+			]
+		]
+	],
+	"category": 0,
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"menu-scout-v2",
+		"bf",
+		"gf"
+	],
+	"storyName": "Not really funny rap battle with scout.png",
+	"weekName": "weekScoutRevenge",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week1",
+	"startUnlocked": true
+}
